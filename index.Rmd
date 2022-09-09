@@ -29,6 +29,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+## Test {#test}
 
 Text formatting 
 ------------------------------------------------------------
@@ -81,3 +82,5 @@ Content Cell  | Content Cell
 
 
 silas raye
+
+go to [Test] or [test]
