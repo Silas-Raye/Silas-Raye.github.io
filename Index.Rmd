@@ -2,7 +2,7 @@
 title: "DnD_Notes"
 author: "Silas Raye"
 date: "2022-09-09"
-output: html_document
+output: pdf_document
 ---
 
 this is some test text
