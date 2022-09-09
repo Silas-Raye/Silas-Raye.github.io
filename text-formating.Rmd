@@ -44,7 +44,7 @@ Links and images
 
 [linked phrase](http://example.com)
 
-[optional caption text](para.jpg)
+[optional caption text](images/para.jpg)
 
 Link to a heading [2nd Level Header]
 
