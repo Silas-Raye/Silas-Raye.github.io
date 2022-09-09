@@ -2,8 +2,6 @@
 output: html_document
 ---
 
-Notes on [http://silas-raye.github.io]
-
 Text Formatting
 ------------------------------------------------------------
 
