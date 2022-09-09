@@ -1,6 +1,23 @@
 ---
-title: "DnD Notes"
+title: "Luke's Campaign Notebook"
 output: html_document
 ---
 
-Notes on [text formatting](https://silas-raye.github.io/text-formating.html) in rmd
+Table of Contents
+-----------------
+* [Arc Plans]
+* [Past Session Plans]
+* [Future Session Plans]
+* [Worldbuilding Notes]
+
+Arc Plans
+---------
+
+Past Session Plans
+------------------
+
+Future Session Plans
+--------------------
+
+Worldbuilding Notes
+-------------------

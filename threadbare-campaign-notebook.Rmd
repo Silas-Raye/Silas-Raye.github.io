@@ -1,0 +1,578 @@
+---
+title: "Threadbare Campaign Notebook"
+output: html_document
+---
+
+Table of Contents
+-----------------
+* [Arc Plans]
+* [Past Session Plans]
+  * [Session 01]
+  * [Session 02]
+  * [Session 03]
+  * [Session 04]
+  * [Session 05]
+  * [Session 06]
+  * [Session 07]
+  * [Session 08 (Mini/Solo Sessions)]
+  * [Session 09]
+  * [Session 10]
+  * [Session 11]
+* [Future Session Plans]
+* [Worldbuilding Notes]
+
+Arc Plans
+---------
+* __Arc 01 Plan__
+	* Employed by VTO to find missing ships
+	* Meet the Cortas and find out about the dead son
+	* Track the ships and end up stuck in Twe
+	* Kill some time in a small town in Twe and learn a bit more about its people and culture
+	* Find the magic sword
+	* Find the ruins of a temple explaining the binding of the gods (all but one)
+	* Travel by train to the garden city
+	* Continue to learn more about how Twe society is structured
+	* Pit stop at Sankt Peter (Optional)
+	* Meet the Mackenzies
+	* Let the party really sink their teeth into all the political intrigue during their time at crucible. Refer to Arc 01 Secrets for more info
+	* If they are not stopped the Mackenzies will send their stolen fleet on the Cortas
+	* This will destabilize both families, and while their fighting force is gone Jade Sun will attempt to kill and take over for Robert, and then when the war is over they will hopefully have conquered the Cortas too
+	* If they are stopped the entire plan will come to light and the party will travel to Fuxi in an attempt to track down the fleeing Jade Sun and gain more info on Rafa’s killer
+	* Arc 01 Secrets:
+		* The Suns are behind it all
+		* Jade fed Robert the information on how to steal the ships knowing he'd send them against the Cortas
+		* Jade had Rafa assassinated
+		* The Suns left the scrap of cloth on in an attempt to frame the Cortas
+		* Jade Sun-Mackenzie was not kidnaped but left of her own volition. She is orchestrating the downfall of House Corta for her mother Lady Sun who also wants to take over Thread production
+* __Arc 02 and 03 Plan__
+	* Arc 02 is the madam
+	* Arc 03 is Adriana and the her plan to unravel the gods
+	* The trickster god
+	* The madam and her coven of blood are trying to harness the power of the bound gods to overthrow the Suns
+	* If they succeed the actual sun in the sky might stop working
+	* They can learn about the history of the gods by first decoding the rubbings then finding and talking to Xolotl
+	* Where magic comes from
+	* Into Que and give info on warlocks
+	* They and the coven of strings learn together
+	* After they discover the nature of magic have Lily see all of her spirits' true forms: As both people and their families
+	* The rebels
+	* The Suns are super secretive and corrupt and probably shouldn't stay in power either
+	* Daryun’s sister is a member
+	* The coven of strings are members
+	* The sword in the stone
+	* Have them find the sword again in a clearing in the harmonic woods
+	* In the final battle of Arc 2, Daryun pulls the sword from the stone. The ax of Xango. Sankt of the raging storm. It can transform into any weapon he wants
+	* Arc 02 ans 03 Secrets
+		* Lady Sun is Xolotl
+* __After Arc 03__
+	* Ishanti one shot
+	* Lily and Cadence wedding one shot
+	* They can planeswalk using the bridge
+
+Past Session Plans
+------------------
+### Session 01
+* __Bringing in the PC - Lily__
+  * Lilly wakes from a dream, terrified. The last thing she remembers is training under the Madam at the Hill House, but the memory is blurry. As the memories fade like a dream upon waking the sense of fear remains. Sitting across from you is a figure clad in dark armor the joints held together with glowing golden Thread. A typical observer might take her to be a person, but you sense that she’s a fear spirit. One whose aura is almost nauseatingly strong; stronger even than Freddie’s. However the effect seems to be dampened considerably by the Thread and the armor working together somehow to contain the spirit. You would have noticed earlier if you weren't so caught up, but the figure doesn't seem to have a familiar. In her hand she clutches a piece of paper. As soon as you see it you remember a similar piece of paper folded and tucked into your overalls
+* __Bringing in the PC - Zulie__
+  * Zulie doesn't remember much. A flash of light. A dark alley, all who saw you running away in terror. Finding a battered set of black plate armor and putting it on. A garden city filled with as many plants as people. And a poster “HELP WANTED” printed in large red letters on the front. The same poster you are now holding in your hand
+* __Bringing in the PC - Daryun__
+  * Go onto the porch and relate this before bringing him in…
+  * You were relaxing in a tavern in the garden city of Twe: stronghold of the Asamoah, the house responsible for growing food. You had just finished a rather easy and not too well paying mercenary job when the giant red letters of a help wanted poster caught your eye from across the room
+  * Sankt Peter is the stronghold of House Vorontsov, the house of transport
+  * You travel to the docks and board the VTO (Vorontsov Transport Organization) Skyship Fidelity over the course of the next hour two more passengers board and the ship takes off
+* __Meet the Vorontsovs__
+  * The party takes the Fidelity to Sankt Peter, the city in the sky
+  * There they meet Valery Vorontsov (atrophied legs, Thread wings)
+  * After a monologue about his dream and asking each of them their dreams, Valery tells them that their hired
+  * He needs them to track down missing sky-ships making up almost half of the VTO fleet, thus the need for discretion and urgency. He can’t have the other housing knowing half his fleet vanished overnight
+  * He hands each of them a card granting them free transport on any VTO ship for the duration of the investigation. If they find the missing ships they will get to keep the cards and will be granted 1,500 gp each
+* __Meet the Cortas__
+  * Their employer provides them with a scrap of torn cloth found at the docks that the ships sailed off from
+  * The cloth is emblazoned with the insignia of House Corta
+  * If the party visits Boa Vista they hear rumors that the heir to the house was assassinated by a Mackenzie blade
+  * The Mackenzies have resented the Cortas since they broke off and started their own House
+  * Adriana claims that the Cortas have nothing to hide
+  * She points out that the Thread sails are the truly valuable part of the ships, and the Cortas have Thread in abundance
+* __Tracking the Ships From Sankt Peter__
+  * The party returns to Sankt Peter and tracks the ships from the docks using their departure vector
+  * After traveling for several hours the party finds a few pieces of debris from the ships, but not nearly enough to account for the number of ships that went missing
+  * They also find a few survivors from the ships who tell them that the ships were attacked by war-forged and Automatons
+  * With a history check the party members can identify the automatons as belonging to House Mackenzie
+  * They find no other definitive clues as to where the ships might be
+* __Session 01 Notes__
+  * Same time next week - Yes
+  * Start the next session with a recap
+  * With a history check the party members can identify the automatons as belonging to House Mackenzie
+  * Give Daryun a sword in the stone type moment where he can’t get it one session and then a bunch of sessions down the road he can
+
+### Session 02
+* __Stay in One Place?__
+	* With a history check the party members can identify the automatons as belonging to House Mackenzie
+	* If the party stays in place, workers come to tend the rice patties and can lead them into Twe
+* __Travel Into Twe?__
+	* If the party travels into Twe they find a small town with a train that comes in 3 days
+	* Spend the days running easy errands for Mosscap, Shevek, and Takver
+	* Use this session to show that the people of Twel live in a well organized, democratic society. The only democracy out of the five. Make their government like the one from The Disposed
+* __Shevek and Mosscap__
+	* They are best friends
+	* They both use they/them
+	* Nether has been able to syndicate
+	* They are both shy and socially awkward
+	* Shevek is a mathematician and artificer
+	* Shevek can fix Frank, the party’s automaton
+	* Mosscap is a naturalist
+	* Moscap and/or their familiar can explain “waking up” and other facets of warforged on Para
+	* Moscap wants help collecting special mushrooms
+* __Takver, Shevek’s Grandma__
+	* She is a local school teacher and expert on Odo
+	* Odo is said that a society should function like an organism. She preached an end to private property and anarcho-communism
+	* Takver can explain the teachings of Odo and the government of Twe if asked
+	* Takver  wants the party to clear out a bunch of small not yet sentient automatons living in the caves by her village
+	* Make this an super easy encounter
+	* If asked Moscap will liken it to an abortion. They feel no remorse towards robots that haven’t yet woken up
+	* Even still they party can attempt to care for the swarm of small automatons and help them to wake up. This will be hard but not impossible
+* __Travel into the Mountains__
+	* Tracking down the wizard is futile. The remaining shield guardian picked him up and flew quite a ways before the spell wore off
+	* They spend 3 days doing wilderness survival
+	* Easy encounter with goblins
+	* Cross a river
+	* Scale a cliff
+	* Brave a snowstorm near a mountains peak
+	* After all that they come across Crucible
+* __Session 02 Notes__
+	* The captains names are Jof (the one who’s ship crashed) and Garet
+	* Daryun and his sister are from Joao
+	* She is now a member of the Suns. She is a bad ass spy/assassin in Fuxi
+	* Have the party come across the sword in the stone again. It moves magically
+	* Idea: Have the McKenzies keep the party at court as "honored guests”
+	* Idea: Give my players custom designed spell cards, maneuver cards, and spirit cards in the following sessions
+	* What do the players get up to on the train next session?
+	* Recap
+	    * Entire bathroom sequence
+	    * Lily walking around a cave, killing bats
+	    * The chasm, and the joke about a familiar screaming "eeeeee"
+	    * 3rd room of the sun maze: “no one has ever made it this far”
+	    * Daryun said, "It's been a long day, Shevek. We found a sword, a sun room, and some mushrooms. Here would you like some mushrooms?"
+
+### Session 03
+* __Leaving Anarres__
+	* The party wakes up to the sun slanting in through the windows of the boarding house at the center of the town. 
+	* Takver, Shevek, Frank, and Mosscap meet them at the platform. 
+	* Takver bids them farewell and thanks them for clearing out the bats in the cave.
+	* Shevek tells Lily that he has fixed Frank, and he will now only respond to her commands unless she tells him to respond to other masters.
+	* Frank has a brand new set of legs. His chest plate has been polished and a small window shows a slowly unraveling ball of Thread feeding into some sort of power core. Next to the power core is a glass orb not unlike the one containing the locate object spell, but where that orb swirls with purple light, this orb is empty.
+	* Mosscap brought each of the players a bag of dried mushrooms as snacks for the trip.
+	* The two captains Jof (the one who’s ship crashed) and Garet have also come to see the party off. They will be staying in Anarres where they will be starting a life together.
+* __[The Train Cars](https://preview.redd.it/725y3m8srkg51.jpg?auto=webp&s=354f4183bf954c2d456db3927906e7c941ef7546)__
+	* The Gambling Car
+		* The dark king - Any buy in > 10
+			* Blackjack but with d10 (1s are 1 or 11)
+			* If you beat the dealer you get 2x your bet
+			* All dice are shown except the dealers second dice
+			* Setup, everyone is dealt 2 dice
+			* On your tun you can hit any number of times or hold
+			* Once everyone has gone the dealer reveals
+			* The dealer hits as long as their hand is <= 16
+		* A group of 3 pirates playing tricksters dice - 20 buy in
+			* All participating players will roll 5d6 dice and keep their roll hidden
+			* The first player to cry out Aye starts
+			* They bid a face value, and the number of die they think have that value (1s are wild)
+			* The next player has to raise either the face value or the number of dice. Or they can challenge
+			* If they challenge and win, the loser's dice goes in the middle and they take 4 of their gold. If they lose they lose a dice and 4 gold.
+		* Fate’s weal - Any buy in > 10
+			* Call a number, or even, or odd
+			* The dealer rolls a d20
+			* If you called even or odd correctly you get 1.5x your bet
+			* If you guess exactly right you get 3x your bet
+		* Gyp - 10 gp buy in
+			* Roll 2d6
+			* On a 7, or 12 you win 1.5x your bet
+			* You can then walk away or double your bet
+			* If you double your bet and add a d6
+			* If you fail to get 7 or 12 you lose everything
+		* Thimbles - Any buy in > 10
+			* The game is played by casting small stones into a marked ring
+			* (The rules are totally arbitrary)
+			* You can only be told the rules after you buy in. Roll a d20 to determine the player's innate skill at the game.
+			* 2-4 players are equipped with smashers. You use your smashers to gather thimbles. You gather a thimble by hitting a stone through the opponent's smashing window. You close a smashing window by hitting two thimbles through the window thus gathering two stones. Stones may be gathered by other means as well, two points for square throw and three for a if you're playing Golbarthian rules, but nobody plays by Golbarthian rules. For every square, a thimble touches as it falls and you remove one the opposing player's smashers from the game. You also gain four thimbles and ownership of the squares.
+	* The Observation Car
+		* Default: The train passes through a series of small towns and villages. The scenery is mostly farmland with the occasional forest. The players see farmers working in their fields, children playing in the streets, and people going about their daily lives.
+		* Interesting (d12):
+			1. A large herd of buffalo roaming the plains.
+			1. A wide river full of fish.
+			1. A herd of elk grazing in a meadow.
+			1. A family of beavers building a dam.
+			1. An abandoned stagecoach that looks like it was robbed by bandits.
+			1. A burning farmhouse.
+			1. A thunderstorm rolling in.
+			1. A rainbow after the storm.
+			1. A field of wildflowers.
+			1. The sun setting over the plains.
+			1. A shooting star.
+			1. An early morning fog.
+* __The Garden City__
+	* The train station is connected to the skyship docks
+	* The giant tree, seat of the golden stool.
+	* The buildings housing the great machines that dispense names and work assignments.
+	* The nursery where parents give up their children for professional care
+	* A bustling farmers market
+	* All sorts of dispensaries and hot shops like the ones they saw in Anarres
+	* No magic items for sale
+	* A martial arts dojo where Daryun can learn a new maneuver
+* __Meet the Mackenzies__
+	* The party decides to investigate House Mackenzie and see if they can find any clues as to why they would want to steal the Vorontsov's ships
+	* They travel to the Mackenzie estate and speak with Robert Mackenzie
+	* He stole the ships to wage war on the Cortas who have been charging him exorbitant prices for Thread almost double what the other houses are paying
+	* If interrogated on where he got the information about the ships he acts shifty
+	* But he denies having anything to do with the murder of Adriana's son
+	* He also tells the party that his wife, Jade Sun-Mackenzie, has gone missing
+	* He has no idea where she is, but he suspects the Cortas kidnapped her in retribution for the death of Rafa Corta
+* __Session 03 Notes__
+	* The party should level up at some point
+	* Jof and Garrett wedding (they adopt grass the flumph as their son)
+	* Give Daryun another clue to confirm Zulie’s theory
+
+### Session 04
+* __Starting Session 04__
+	* The doors to Mackenzie manor slam shut in their face with a thud
+	* Freddie finds a letter in Ace’s office
+	* Jade is worried Ace is onto her
+	* Lily can change her appearance and try talking to Robert again
+	* They can set Robert against Ace
+	* Or they can confront Ace and he can tell them he believes Jade was a spy
+* __The Letter__
+	* Use the Welcome to Night Vale book
+	* Code:
+	  * 58; 14; 1-2
+	  * 375; 7; 9-10; 36; 9; 8; 7; 22; 6-7; 44; 3; 1; 257; 18; 7-9; 24; 15; 6; 187; 13; 5
+	  * 375; 7;  9-10; 281; 26; 2; 12; 8; 4; 12; 4; 1; 5; 10; 12; 5; 11; 1-2
+	  * 72; 3; 3-5
+	* Translation:
+		* Dear Mother,
+		* Ace knows I had Rafa killed, and he suspects my involvement in other matters. I fear for my safety here.
+* __Robert’s Investigation__
+	* He tells the party that Jade Sun disappeared from her room the night before last
+	* There was no sign of struggle, and no clues, but he suspects Corta blades kidnap her in retribution for Rafa’s death
+	* He swears he didn’t kill Rafa, and says it’s typical of the cortas to blame the Mackenzies
+	* If the party is able to sweet talk him, he’ll show them her rooms
+	* They find a single book in her desk
+* __What Ace Knows__
+	* Ace took over for the dock master on the night when the ships landed and where stashed away
+	* That's why the dock master looked shifty
+	* That also means Ace knows where the ships are
+	* Robert is too arrogant to mistrust Jade, but Ace has been intercepting her letters on outbound mail ships, and suspects her of spying
+	* A few weeks ago he overheard her telling a Sun ambassador (trained as an assassin) to kill Rafa
+* __Tracking Jade__
+	* Jade went to Fuxi with a shipment of steel
+	* She paid the pilot handsomely to keep her presence on the ship quiet
+	* And she disguised herself as an extra precaution
+* __Return to Sankt Peter__
+	* Rest up
+	* Get paid (1,500 gp each) if they found the ships
+	* Lucas has sent them a letter saying his investigation yielded nothing, and he wants to hire them to investigate the murder of his brother
+	* Give the party another lead to start tracking down Jade Sun-Mackenzie and finding out the truth of the Sun’s involvement (if they need it)
+* __Session 04 Notes__
+	* Lilly is now Echo
+	* It came on when she put on the headband of intelligence and she regained all her memories
+	* Lucas Corta is meeting them at noon tomorrow and will pay them 500 gold each to find out who killed Rafa
+	* They go to Fuxi to find Jade
+	* And also to do Echo’s back story
+	* The party is now named the flower family
+	* The party hears about Valery recovering his ships
+	* Drop a major plot hook for the nature of magic side story
+	* Do some combat
+	* Begin Arc 2!!
+
+### Session 05
+* __Starting Session 05__
+	* The party is in Taverna in Joao
+	* The party finishes their business in Joao
+	* Shopping
+	* Translate the rubbings? They can begin to get more info on the gods throughout this ark
+	* Talking to Lucas at noon
+	* Have Lucas give the party a reason to travel to Fuxi to track down Jade perhaps
+	* He gives them 500 gp each for the info on who killed Rafa
+	* He gives them a quest in Fuxi if they are willing
+* __The Ship is Attacked__
+	* The ship (VTO Serenity captained by Raya the tabaxi) is attacked while flying over the harmonic woods
+	* 3 members of the coven of blood riding in on slaved familiars swoop in and attack the ship
+	* Use the stat blocks of a Black, Blue, and Red Adult dragons, but w/ 75 HP each
+	* Black - Necrotic attack - Bat
+	* Blue - Lightning attack - Black moth w/ blue highlights
+	* Red - Fire attack - Red newt
+* __The Party is Captured?__
+	* The party is captured and taken back to Hill House
+	* Verbal confrontation w/ the madam
+	* Daryun’s sister, brakes them out and takes them to the rebel camp
+* __The Party is Saved?__
+	* The party is saved last min by rebel forces
+	* The rebels ride dragonflies and hide out in the harmonic woods 
+	* The trees in the woods are called song spire trees
+	* Daryun’s sister is a prominent member of the rebels
+	* She leads the charge to save them
+	* Later they find out…
+	* Lilly’s coven of strings are also members of the rebels
+* __The Ship Crashes?__
+	* The ship crashes in the harmonic woods
+	* The party might…
+	* Continue the fight on the ground
+	* Hide and throw off their attackers
+	* Stumble across a rebel camp
+* __They Win the Fight?__
+	* They fight off their attackers and continue to the palace of eternal darkness
+	* There they can ask around and get info about the Suns, the Coven of Blood, and the rebels
+* __Ending Session 05__
+	* By this point the party should either be in the palace of eternal darkness and the surrounding city
+	* Maybe they pick up a job to kill some vigilantes who end up being rebels and converting them to the cause
+	* Or they should be in the woods with the rebels
+* __Session 05 Notes__
+	* Daryun’s sister is named Rebecca
+	* Red is Beck, Blue is Winter, and Black is Gillian
+	* There are large libraries in both Fuxi and Nuwa
+	* Daryun and Reb spar next session
+	* Cadence and Lily catch up next session
+	* The coven of strings is with the rebels
+	* One of their members is doing reconnaissance at hill house but they haven't heard from them in weeks
+
+### Session 06
+* __Starting Session 06__
+	* Remind the players about the sanctions and tariffs put on the Suns and the Mackenzies by VTO
+	* So the rebels are trying to smuggle food into the slums around the palace
+	* The coven of blood is trying to intercept food shipments to sell them at a huge prophet and further destabilize the Suns
+	* That’s why their ship was attacked. The coven of blood thought it was a rebel food shipment
+* __Cadence and Lily Catch Up__
+	* The coven of strings is with the rebels
+	* One of their members is doing reconnaissance at hill house but they haven't heard from them in weeks
+	* NPCs in The Coven of Strings
+* __The Rebels Plan__
+	* The rebels plan to sneak food in on rafts floating down the Tzeyang River
+	* They are told that this should be easy because no one really uses rivers for transport anymore so the coven of blood won't expect it
+	* The mission is a well kept secret even among the rebels. So they party helps cut trees and make rafts
+	* They run into rapids and must make checks to keep the rafts afloat
+	* They run into a coven of blood ambush proving someone who knew about the mission is a traitor
+* __The River Ambush__
+	* This fight was skipped because Lily is a genius
+	* She thought to use her ability to look into the ethereal plane to spot the witches' earrings
+* __Mission Completion__
+	* The party loads the food onto a cart and has the entire cart ride to relax and chat
+	* The cart stops in the slums around Fuxi and the party gets to hand our food to people
+* __Session 06 Notes__
+	* The then head back to the hideout to talk about the possibility of a traitor and their next mission
+	* Read about the gods at Fuxi’s library: Farside (they can do this before going back)
+	* A raid on hill house
+	* Traveling to the palace and doing stuff there
+
+### Session 07
+* __Lily is Missing__
+	* They found an inn after heisting the library and got a long rest
+	* They got the book about the gods citing Orso Ignacio
+	* They also found the censor
+	* They wake up and Lily is gone but she left a note saying she is was terribly sick during the night and got another room to wait it out
+	* Let Daryun roll to see if he notices the headband is missing
+	* Gray actually snuck out to report to the Madam
+	* She returns after a day w/ no memory of being gone
+	* If an opportunity presents itself have Que identity something weird about the headband
+	* All of the gems are spell storage orbs
+* __Session 07 Notes__
+	* They left off in taverna with four invitations to the ball at 6pm
+	* Lily has the address of a jewelry shop
+	* Modify memory on Zulie again at some point
+
+### Session 08 (Mini/Solo Sessions)
+* __Daryun's Session__
+	* A little solo pre-ball time
+	* Grabs ticket and enters solo
+	* Shows up at the ball DECKED OUT
+	* Daryun meets the oracle aka Ianite, and she offers him the sword along with several visions
+	* Ianite is Zulie’s patron
+	* Reb, Daryun’s sister, has always been a devout follower of Ianite
+	* Till him about the visions she sent to Zulie and Lily
+	* Show him the visions again with him on the side of the madam and Adriana
+	* Tell him it is the only way to bring justice, and then offer him
+	* The sword
+	* The power of a saint
+	* And a martyrdom to match
+	* The martyrdom will be Zulie’s not his but make him think it’s his
+	* Show him a vision of Lily and Cadence talking to builders as a statue is erected to a new saint
+	* At the price of his friends
+* __Que's Session__
+	* Lady Sun recognizes him and takes him back to her private pre-party
+	* Lady sun and Xolotl are one in the same
+	* They get along great
+	* The understand of the gods and the danger the entire world (including the sun in the sky is in) comes to Que from his old sun contact - lady sun - aka Xolotl
+* __Lily's Session__
+	* Big date night with Cadence
+	* Cadence slips away from the party with Lily and shows her a special date night with candles and wine in a spot from their childhood
+	* Go back to the party
+	* Dance on the floor
+	* Meet up with Daryun
+	* Maybe have some traitor stuff come up
+	* Just keep an eye out for opportunities
+* __Zulie's Session__
+	* Sees Adriana at the ball and becomes nauseous
+	* Goes into a vision where she is fighting wraiths
+	* Combat mini game
+	* Every wraith she kills unlocks a core memory that can be expanded upon using modify memory
+* __Session 08 Notes__
+	* Daryun ended his session by meeting up with Lily on the ballroom floor
+	* The ball spans two stories and several side rooms
+	* The coven of blood sent a delegation
+	* Adriana is at the party and shes not happy Lucas tried to retire her delegation
+	* Gray is the traitor
+
+### Session 09
+* __Hunt Down Jade Sun__
+	* Where is jade sun
+	* She is in the palace
+	* How do i hook them into this
+	* I send them a intelligence update from Rafa saying it's hard to get any good information w/out sun spies 
+	* But he found out she in the palace and there will be a ball that night
+	* They can go as his guests
+	* They can also sneak in as staff or forge an invitation
+* __The Ball__
+	* The ball is to celebrate Jade Suns Birthday
+	* They can party for a bit and meet interesting characters before they spot jade
+	* Idea: In case they go full murder hobo the oracle turns into a silver dragon
+	* If they spend time at the party and ask around
+	* They find out more about the madams plan to steal a god from where they're chained
+* __People at The Ball__
+	* Diplomats from the 5 houses
+	* Each of them gives a toast
+	* Including the PCs
+	* Diplomat who doesn't like Jade (Mackensie)
+	* Diplomat who likes Jade (Asamoah)
+	* Comic relief that knows the inner workings of the court (like Hoid)
+	* Courtier who thinks they know everything but actually only knows gossip (acts haughty) - Arlel
+	* Leads them on if possible
+	* Handmade of Jade who wants to slip off to her (M) lover
+	* The trickster god in disguise
+* __Session 09 Notes__
+	* Give the understanding of the magic system and sainthood to Zulie after Lily brings out more memories
+	* Que wants to find and capture Ishanti
+	* The party is level 11
+	* Adriana is hauling ass towards the Nua bridge
+
+### Session 10
+* The original plan to wait 7 days to attack hill house might be a bit optimistic given that the madam knows the location of the bridge
+* The party needs to gather ally's ASAP and attack hill house
+
+### Session 11
+* The party's army vs hill house
+* 20 witches 10ish per floor
+* Use house on the hill board game
+* It was all a diversion! They kill the madam, but Adriana is on her way to the bridge to start the ritual
+
+Future Session Plans
+--------------------
+* Lady sun can help with hill house, but she can't travel onto the bridge w/out being drawn into the ritual
+* Before they pass onto the bridge, the oracle tosses the sword. Tell him he changed fate. He doesn't have to betray his friends. He is worthy.
+* The final fight on the bridge, but the ritual has already begun and adriana is drawing thread from one of the gods
+* The party starts losing the fight as more and more thread is at the party's disposal
+* Lily dismiss zulie
+* Her form begins to blow apart and the sword flies into her hand and she attacks the madam
+* The sword can never miss and is a +1 or whatever weapon it takes the form of
+* Also the dismiss action gives zulie the movement needed to close the gap
+* She stabs the madam through the heart and for a moment it seems like it's enough but the thread from the god heals the wound with the sword still in it.
+* Zulie blows apart taking enough damage to insta-kill her
+* Adriana looks triumphant but the expression changes to fear as the states in awe at something behind the party
+* A wave of thread crashes in from both sides of the bridge. All the thread that came from zulie slams into Adriana killing her. The unraveling god is also sucked in as adriana tries to heal herself and fails
+* Lady sun sacrifices herself to the ritual saying she learned selflessness for the party and she's ready to help her people in the same way her brothers and sisters did
+* Postscript zulie is summoned back as sankta zulie of the threads
+* Sankta zulie knows how to use the bridge to planeswalk and the party heads off for their next adventure
+* In the postscript Lily summons "Zulie, the saint of fear”
+* Like she might summon any other spirit but with a experimental ritual that has cadence and Daryun worried
+
+Worldbuilding Notes
+-------------------
+* __Premise__
+	* Five great houses vie for control over the Para’s magic market. The year 1066 PA (post ascension). House Corta has risen from nothing and shown the world that a monopoly on magic is possible.
+* __The Five Houses__
+	* House Corta
+		* The House of Magic
+		* Brazilian vibes
+		* They create and sell Thread
+		* Their fortress is called Boa Vista in their city, Joao de Deus
+		* They worship The Saints which they call Orixas
+		* Notable Cortas:
+			* Adriana Corta: founder & leader of the Cortas; aka the iron hand
+			* Rafa Corta: (dead) oldest son of Adriana
+			* Lucas Corta: second son of Adriana
+	* House Mackenzie
+		* The House of Metal
+		* Australian vibes
+		* They mine and sell metal
+		* They also make and employ lost of warforged
+		* Their fortress is a walking mountain called Crucible
+		* Crucible roams the meridian mountain range
+		* Their constructs and mining equipment all run on Thread
+		* Before the rise of House Corta they employed mages
+		* These mages would summon and maintain their golems
+		* Notable Mackenzies:
+			* Robert Mackenzie: aged founder. More warforged than man
+			* Jade Sun-Mackenzie: second wife of Robert Mackenzie
+			* Ace: Chief of police
+	* House Sun
+		* The House of Secrets
+		* Chinese vibes
+		* Controls information with spies and assassins
+		* Weave Thread into boots, cloaks, and the like
+		* They have a fortress in the East: the Palace of Eternal Light
+		* And a fortress in the west: the Palace of Eternal Darkness
+		* They have oracles at each palace who wear blindfolds of Thread
+		* Notable Suns:
+			* Lady Sun: current leader
+			* Jade Sun: wife to Duncan Mackenzie
+	* House Asamoah
+		* The House of Life
+		* The Dispossessed vibes
+		* Grow all the words food
+		* Live in the garden city of Twe
+		* Don’t use Thread
+		* The Golden Stool is a great tree at the center of Twe
+		* The leader is whoever sits on the golden stool
+	* House Vorontsov
+		* House of Transport
+		* Russian vibes
+		* Weave sails for their sky ships out of Thread
+		* The flying city of Sankt Peter is their stronghold
+		* They worship The Saints which they call give the title Sankt
+		* Notable Vorontsovs:
+			* Valery Vorontsov: current leader, parapalegic with wings
+* __Thread__
+	* Thread is a magical substance produced by the Cortas, and used to power most modern magic.
+	* All magic comes from the soul. Unknown to anyone the Cortas are unraveling innocent familiars to make Thread.
+* __Xolotl__
+	* There was one god that did not bind himself to the forge at the end of the world. The trickster god Xolotl. On the first day, he shapeshifted into a serpent and slithered away, but he was soon caught. On the second day, he disguised himself as a coyote and this lasted longer, but ultimately he was still caught. On the third and final day when all the gods were to be bound to the forge, he shapeshifted into an axolotl and slipped away. Xolotl still roams Para to this day; although, no one knows it. He is the only unchained god.
+	* Lady Sun is Xolotl
+* __The Nature of Magic__
+	* Everyone is born with a soul that manifests in the physical world as they’re familiar. All magic derives from these souls.
+	* Wizards perform arcane heart surgery breaking their souls and reconstructing them to become more powerful. Wizards familiars often appear like shattered glass.
+	* Arcane Trickster Rogues are like wizards through study they are able to somewhat open their souls and let magic pass through more easily, but unlike wizards they do not completely reshape their souls merely opening them up a little bit.
+	* Warlocks sell their souls and in return are loaned the magic of a being with a much greater more powerful soul than their own. Consequently warlocks go without familiars.
+	* Witches bond closely with their souls and pull them further into the material plane drawing on their souls' magic and the magic of other untethered souls to fuel their spells.
+	* Paladins and Clerics give their families up to a higher power, and become part of that power in return. They still have their familiars, but they are now an extension of a greater being’s soul. On loan to their original owner until their death. Each person who worships a saint bolsters that saint's power by amassing the number of souls it has control over. Oathbreakers who leave the church they have sworn themselves to irrevocably corrupt their familiar.
+	* Druids and Rangers draw gently on the souls of all living things around them. However, druids are careful never to take more than they need, and never to take so much that they cause harm. Hypothetically a druid of evil intentions could make all the land wither around them as they sucked the magic out of it, but in practice anybody who would do that would never be instructed in the circles of druidry.
+	* Sorcerers’ souls are naturally more powerful than other humans. Whether because of a magical ancestor or because of pure luck sorcerers familiars are usually larger than typical farmilars.
+	* Bards are a combination of arcane tricksters and sorcerers. Like arcane tricksters they may have somewhat opened their soul through study, and like sorcerers they can have some innate power though perhaps their bloodline connection is more distant.
+* __The Founders__
+	* Founder: Adriana is human but her house is new (~ 80 yrs)
+	* Founder: Robert is an old fuckin elf with machines that keep him alive
+	* Founder: Lady Sun is a ridiculous healthy ridiculous old elf
+	* The rest of the founders are dead. Replaced by leaders
+	* Leader of VTO: Valery
+	* Leader of the house of growth: ?
+* __The Saints__
+	* Ianite - Justice
+	* Peter - Journeys
+	* Alina - Light & power
+	* Nikolai - Sailors, honor, & rascals
+	* Zulie - Threads
+* __Magic Items__
+  * The Headband of 19 int
+	  * The headband has functioned in 3 different ways
+	  * As an int boost for Daryun and grass
+	  * Previously stored spells by the past owner on Lily initially putting it on
+	  * As a hypnotic focus for gray
+  * The Bridge
+    * "Something slithers past you in the dark. You feel all the nightmares that have come out when the sun goes down, since the cave times, when people huddled together in fear, for safety, and for warmth. All those nightmares are swirling around you and only the bridge is holding them at bay. Now is the time to be afraid of the dark. You are taken by the absolute certainty that something is about to creep over your face, but all you can do is close your eyes: it makes no difference to what you see or feel. The darkness is complete. You begin to hallucinate. You are a small child, walking home from school, at night, down the one road with no streetlights. No matter how many times you do it, it never gets any easier, never gets any better. You are deep in the sewers, lost in a labyrinth, a beast is waiting for you in the sewers ahead.  You know the beast is waiting. It charges at you, through the dark. You die, and you keep walking. Slowly, agonizingly slowly, it charges at you, over and over, through the dark, but all you can do is keep walking. There is a flare so bright it hurts. It appears you have crossed the bridge successfully."
