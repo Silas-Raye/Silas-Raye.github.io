@@ -2,7 +2,9 @@
 title: "DnD_Notes"
 author: "Silas Raye"
 date: "2022-09-09"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 this is some test text
@@ -14,3 +16,5 @@ output: html_document
 ---
 
 this is to show that the test worked
+
+2
