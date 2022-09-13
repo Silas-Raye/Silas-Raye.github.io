@@ -6,7 +6,10 @@ output: html_document
 Table of Contents
 -----------------
 * [Arc Plans]
-* [Past Session Plans]
+  * [Arc 01 Plan]
+  * [Arc 02 and 03 Plan]
+  * [After Arc 03 Plans]
+* [Session Plans]
   * [Session 01]
   * [Session 02]
   * [Session 03]
@@ -18,59 +21,71 @@ Table of Contents
   * [Session 09]
   * [Session 10]
   * [Session 11]
-* [Future Session Plans]
+  * [Session 12]
+  * [Session 13]
+  * [Future Sessions]
 * [Worldbuilding Notes]
+  * [Premise]
+  * [The Five Houses]
+  * [Thread]
+  * [Xolotl]
+  * [The Nature of Magic]
+  * [The Founders]
+  * [The Saints]
+  * [Magic Items]
 
 Arc Plans
 ---------
-* __Arc 01 Plan__
-	* Employed by VTO to find missing ships
-	* Meet the Cortas and find out about the dead son
-	* Track the ships and end up stuck in Twe
-	* Kill some time in a small town in Twe and learn a bit more about its people and culture
-	* Find the magic sword
-	* Find the ruins of a temple explaining the binding of the gods (all but one)
-	* Travel by train to the garden city
-	* Continue to learn more about how Twe society is structured
-	* Pit stop at Sankt Peter (Optional)
-	* Meet the Mackenzies
-	* Let the party really sink their teeth into all the political intrigue during their time at crucible. Refer to Arc 01 Secrets for more info
-	* If they are not stopped the Mackenzies will send their stolen fleet on the Cortas
-	* This will destabilize both families, and while their fighting force is gone Jade Sun will attempt to kill and take over for Robert, and then when the war is over they will hopefully have conquered the Cortas too
-	* If they are stopped the entire plan will come to light and the party will travel to Fuxi in an attempt to track down the fleeing Jade Sun and gain more info on Rafa’s killer
-	* Arc 01 Secrets:
-		* The Suns are behind it all
-		* Jade fed Robert the information on how to steal the ships knowing he'd send them against the Cortas
-		* Jade had Rafa assassinated
-		* The Suns left the scrap of cloth on in an attempt to frame the Cortas
-		* Jade Sun-Mackenzie was not kidnaped but left of her own volition. She is orchestrating the downfall of House Corta for her mother Lady Sun who also wants to take over Thread production
-* __Arc 02 and 03 Plan__
-	* Arc 02 is the madam
-	* Arc 03 is Adriana and the her plan to unravel the gods
-	* The trickster god
-	* The madam and her coven of blood are trying to harness the power of the bound gods to overthrow the Suns
-	* If they succeed the actual sun in the sky might stop working
-	* They can learn about the history of the gods by first decoding the rubbings then finding and talking to Xolotl
-	* Where magic comes from
-	* Into Que and give info on warlocks
-	* They and the coven of strings learn together
-	* After they discover the nature of magic have Lily see all of her spirits' true forms: As both people and their families
-	* The rebels
-	* The Suns are super secretive and corrupt and probably shouldn't stay in power either
-	* Daryun’s sister is a member
-	* The coven of strings are members
-	* The sword in the stone
-	* Have them find the sword again in a clearing in the harmonic woods
-	* In the final battle of Arc 2, Daryun pulls the sword from the stone. The ax of Xango. Sankt of the raging storm. It can transform into any weapon he wants
-	* Arc 02 ans 03 Secrets
-		* Lady Sun is Xolotl
-* __After Arc 03__
-	* Ishanti one shot
-	* Lily and Cadence wedding one shot
-	* They can planeswalk using the bridge
+### Arc 01 Plan
+* Employed by VTO to find missing ships
+* Meet the Cortas and find out about the dead son
+* Track the ships and end up stuck in Twe
+* Kill some time in a small town in Twe and learn a bit more about its people and culture
+* Find the magic sword
+* Find the ruins of a temple explaining the binding of the gods (all but one)
+* Travel by train to the garden city
+* Continue to learn more about how Twe society is structured
+* Pit stop at Sankt Peter (Optional)
+* Meet the Mackenzies
+* Let the party really sink their teeth into all the political intrigue during their time at crucible. Refer to Arc 01 Secrets for more info
+* If they are not stopped the Mackenzies will send their stolen fleet on the Cortas
+* This will destabilize both families, and while their fighting force is gone Jade Sun will attempt to kill and take over for Robert, and then when the war is over they will hopefully have conquered the Cortas too
+* If they are stopped the entire plan will come to light and the party will travel to Fuxi in an attempt to track down the fleeing Jade Sun and gain more info on Rafa’s killer
+* Arc 01 Secrets:
+	* The Suns are behind it all
+	* Jade fed Robert the information on how to steal the ships knowing he'd send them against the Cortas
+	* Jade had Rafa assassinated
+	* The Suns left the scrap of cloth on in an attempt to frame the Cortas
+	* Jade Sun-Mackenzie was not kidnaped but left of her own volition. She is orchestrating the downfall of House Corta for her mother Lady Sun who also wants to take over Thread production
+	
+### Arc 02 and 03 Plan
+* Arc 02 is the madam
+* Arc 03 is Adriana and the her plan to unravel the gods
+* The trickster god
+* The madam and her coven of blood are trying to harness the power of the bound gods to overthrow the Suns
+* If they succeed the actual sun in the sky might stop working
+* They can learn about the history of the gods by first decoding the rubbings then finding and talking to Xolotl
+* Where magic comes from
+* Into Que and give info on warlocks
+* They and the coven of strings learn together
+* After they discover the nature of magic have Lily see all of her spirits' true forms: As both people and their families
+* The rebels
+* The Suns are super secretive and corrupt and probably shouldn't stay in power either
+* Daryun’s sister is a member
+* The coven of strings are members
+* The sword in the stone
+* Have them find the sword again in a clearing in the harmonic woods
+* In the final battle of Arc 2, Daryun pulls the sword from the stone. The ax of Xango. Sankt of the raging storm. It can transform into any weapon he wants
+* Arc 02 ans 03 Secrets
+	* Lady Sun is Xolotl
+	
+### After Arc 03 Plans
+* Ishanti one shot
+* Lily and Cadence wedding one shot
+* They can planeswalk using the bridge
 
-Past Session Plans
-------------------
+Session Plans
+-------------
 ### Session 01
 * __Bringing in the PC - Lily__
   * Lilly wakes from a dream, terrified. The last thing she remembers is training under the Madam at the Hill House, but the memory is blurry. As the memories fade like a dream upon waking the sense of fear remains. Sitting across from you is a figure clad in dark armor the joints held together with glowing golden Thread. A typical observer might take her to be a person, but you sense that she’s a fear spirit. One whose aura is almost nauseatingly strong; stronger even than Freddie’s. However the effect seems to be dampened considerably by the Thread and the armor working together somehow to contain the spirit. You would have noticed earlier if you weren't so caught up, but the figure doesn't seem to have a familiar. In her hand she clutches a piece of paper. As soon as you see it you remember a similar piece of paper folded and tucked into your overalls
@@ -463,21 +478,31 @@ Past Session Plans
 * Use house on the hill board game
 * It was all a diversion! They kill the madam, but Adriana is on her way to the bridge to start the ritual
 
-Future Session Plans
---------------------
-* Lady sun can help with hill house, but she can't travel onto the bridge w/out being drawn into the ritual
+### Session 12
+* Finish up at Hill House
+* Spend a bit at palace of eternal darkness
+* Notes on what they find at hill house are on the madams character sheet
+
+### Session 13
 * Before they pass onto the bridge, the oracle tosses the sword. Tell him he changed fate. He doesn't have to betray his friends. He is worthy.
-* The final fight on the bridge, but the ritual has already begun and adriana is drawing thread from one of the gods
-* The party starts losing the fight as more and more thread is at the party's disposal
-* Lily dismiss zulie
-* Her form begins to blow apart and the sword flies into her hand and she attacks the madam
-* The sword can never miss and is a +1 or whatever weapon it takes the form of
-* Also the dismiss action gives zulie the movement needed to close the gap
-* She stabs the madam through the heart and for a moment it seems like it's enough but the thread from the god heals the wound with the sword still in it.
-* Zulie blows apart taking enough damage to insta-kill her
-* Adriana looks triumphant but the expression changes to fear as the states in awe at something behind the party
-* A wave of thread crashes in from both sides of the bridge. All the thread that came from zulie slams into Adriana killing her. The unraveling god is also sucked in as adriana tries to heal herself and fails
-* Lady sun sacrifices herself to the ritual saying she learned selflessness for the party and she's ready to help her people in the same way her brothers and sisters did
+* Fight on the bridge
+* Adriana ignores them for the first couple of turns and right before she dies finishes her ritual
+* Then she starts crushing them
+* All the players go down except Lilly and Cadence
+* As they fall Cadence encourages and heals the remaining people whilst urging Lilly not to dismiss Zulie
+* They fight back to back and Cadence spends her last move telling Lilly to "do it"
+* Zulie gets all the worlds thread included Ed's sword and she defeats Adriana dying in the process
+  * Her form begins to blow apart and the sword flies into her hand and she attacks the madam
+  * The sword can never miss and is a +1 or whatever weapon it takes the form of
+  * Also the dismiss action gives zulie the movement needed to close the gap
+  * She stabs the madam through the heart and for a moment it seems like it's enough but the thread from the god heals the wound with the sword still in it.
+  * Zulie blows apart taking enough damage to insta-kill her
+  * Adriana looks triumphant but the expression changes to fear as the states in awe at something behind the party
+  * A wave of thread crashes in from both sides of the bridge. All the thread that came from zulie slams into Adriana killing her. The unraveling god is also sucked in as adriana tries to heal herself and fails
+  * Lady sun sacrifices herself to the ritual saying she learned selflessness for the party and she's ready to help her people in the same way her brothers and sisters did
+
+### Future Sessions
+* Lily and Cadence's wedding
 * Postscript zulie is summoned back as sankta zulie of the threads
 * Sankta zulie knows how to use the bridge to planeswalk and the party heads off for their next adventure
 * In the postscript Lily summons "Zulie, the saint of fear”
@@ -485,94 +510,101 @@ Future Session Plans
 
 Worldbuilding Notes
 -------------------
-* __Premise__
-	* Five great houses vie for control over the Para’s magic market. The year 1066 PA (post ascension). House Corta has risen from nothing and shown the world that a monopoly on magic is possible.
-* __The Five Houses__
-	* House Corta
-		* The House of Magic
-		* Brazilian vibes
-		* They create and sell Thread
-		* Their fortress is called Boa Vista in their city, Joao de Deus
-		* They worship The Saints which they call Orixas
-		* Notable Cortas:
-			* Adriana Corta: founder & leader of the Cortas; aka the iron hand
-			* Rafa Corta: (dead) oldest son of Adriana
-			* Lucas Corta: second son of Adriana
-	* House Mackenzie
-		* The House of Metal
-		* Australian vibes
-		* They mine and sell metal
-		* They also make and employ lost of warforged
-		* Their fortress is a walking mountain called Crucible
-		* Crucible roams the meridian mountain range
-		* Their constructs and mining equipment all run on Thread
-		* Before the rise of House Corta they employed mages
-		* These mages would summon and maintain their golems
-		* Notable Mackenzies:
-			* Robert Mackenzie: aged founder. More warforged than man
-			* Jade Sun-Mackenzie: second wife of Robert Mackenzie
-			* Ace: Chief of police
-	* House Sun
-		* The House of Secrets
-		* Chinese vibes
-		* Controls information with spies and assassins
-		* Weave Thread into boots, cloaks, and the like
-		* They have a fortress in the East: the Palace of Eternal Light
-		* And a fortress in the west: the Palace of Eternal Darkness
-		* They have oracles at each palace who wear blindfolds of Thread
-		* Notable Suns:
-			* Lady Sun: current leader
-			* Jade Sun: wife to Duncan Mackenzie
-	* House Asamoah
-		* The House of Life
-		* The Dispossessed vibes
-		* Grow all the words food
-		* Live in the garden city of Twe
-		* Don’t use Thread
-		* The Golden Stool is a great tree at the center of Twe
-		* The leader is whoever sits on the golden stool
-	* House Vorontsov
-		* House of Transport
-		* Russian vibes
-		* Weave sails for their sky ships out of Thread
-		* The flying city of Sankt Peter is their stronghold
-		* They worship The Saints which they call give the title Sankt
-		* Notable Vorontsovs:
-			* Valery Vorontsov: current leader, parapalegic with wings
-* __Thread__
-	* Thread is a magical substance produced by the Cortas, and used to power most modern magic.
-	* All magic comes from the soul. Unknown to anyone the Cortas are unraveling innocent familiars to make Thread.
-* __Xolotl__
-	* There was one god that did not bind himself to the forge at the end of the world. The trickster god Xolotl. On the first day, he shapeshifted into a serpent and slithered away, but he was soon caught. On the second day, he disguised himself as a coyote and this lasted longer, but ultimately he was still caught. On the third and final day when all the gods were to be bound to the forge, he shapeshifted into an axolotl and slipped away. Xolotl still roams Para to this day; although, no one knows it. He is the only unchained god.
-	* Lady Sun is Xolotl
-* __The Nature of Magic__
-	* Everyone is born with a soul that manifests in the physical world as they’re familiar. All magic derives from these souls.
-	* Wizards perform arcane heart surgery breaking their souls and reconstructing them to become more powerful. Wizards familiars often appear like shattered glass.
-	* Arcane Trickster Rogues are like wizards through study they are able to somewhat open their souls and let magic pass through more easily, but unlike wizards they do not completely reshape their souls merely opening them up a little bit.
-	* Warlocks sell their souls and in return are loaned the magic of a being with a much greater more powerful soul than their own. Consequently warlocks go without familiars.
-	* Witches bond closely with their souls and pull them further into the material plane drawing on their souls' magic and the magic of other untethered souls to fuel their spells.
-	* Paladins and Clerics give their families up to a higher power, and become part of that power in return. They still have their familiars, but they are now an extension of a greater being’s soul. On loan to their original owner until their death. Each person who worships a saint bolsters that saint's power by amassing the number of souls it has control over. Oathbreakers who leave the church they have sworn themselves to irrevocably corrupt their familiar.
-	* Druids and Rangers draw gently on the souls of all living things around them. However, druids are careful never to take more than they need, and never to take so much that they cause harm. Hypothetically a druid of evil intentions could make all the land wither around them as they sucked the magic out of it, but in practice anybody who would do that would never be instructed in the circles of druidry.
-	* Sorcerers’ souls are naturally more powerful than other humans. Whether because of a magical ancestor or because of pure luck sorcerers familiars are usually larger than typical farmilars.
-	* Bards are a combination of arcane tricksters and sorcerers. Like arcane tricksters they may have somewhat opened their soul through study, and like sorcerers they can have some innate power though perhaps their bloodline connection is more distant.
-* __The Founders__
-	* Founder: Adriana is human but her house is new (~ 80 yrs)
-	* Founder: Robert is an old fuckin elf with machines that keep him alive
-	* Founder: Lady Sun is a ridiculous healthy ridiculous old elf
-	* The rest of the founders are dead. Replaced by leaders
-	* Leader of VTO: Valery
-	* Leader of the house of growth: ?
-* __The Saints__
-	* Ianite - Justice
-	* Peter - Journeys
-	* Alina - Light & power
-	* Nikolai - Sailors, honor, & rascals
-	* Zulie - Threads
-* __Magic Items__
-  * The Headband of 19 int
-	  * The headband has functioned in 3 different ways
-	  * As an int boost for Daryun and grass
-	  * Previously stored spells by the past owner on Lily initially putting it on
-	  * As a hypnotic focus for gray
-  * The Bridge
-    * "Something slithers past you in the dark. You feel all the nightmares that have come out when the sun goes down, since the cave times, when people huddled together in fear, for safety, and for warmth. All those nightmares are swirling around you and only the bridge is holding them at bay. Now is the time to be afraid of the dark. You are taken by the absolute certainty that something is about to creep over your face, but all you can do is close your eyes: it makes no difference to what you see or feel. The darkness is complete. You begin to hallucinate. You are a small child, walking home from school, at night, down the one road with no streetlights. No matter how many times you do it, it never gets any easier, never gets any better. You are deep in the sewers, lost in a labyrinth, a beast is waiting for you in the sewers ahead.  You know the beast is waiting. It charges at you, through the dark. You die, and you keep walking. Slowly, agonizingly slowly, it charges at you, over and over, through the dark, but all you can do is keep walking. There is a flare so bright it hurts. It appears you have crossed the bridge successfully."
+### Premise
+* Five great houses vie for control over the Para’s magic market. The year 1066 PA (post ascension). House Corta has risen from nothing and shown the world that a monopoly on magic is possible.
+
+### The Five Houses
+* House Corta
+	* The House of Magic
+	* Brazilian vibes
+	* They create and sell Thread
+	* Their fortress is called Boa Vista in their city, Joao de Deus
+	* They worship The Saints which they call Orixas
+	* Notable Cortas:
+		* Adriana Corta: founder & leader of the Cortas; aka the iron hand
+		* Rafa Corta: (dead) oldest son of Adriana
+		* Lucas Corta: second son of Adriana
+* House Mackenzie
+	* The House of Metal
+	* Australian vibes
+	* They mine and sell metal
+	* They also make and employ lost of warforged
+	* Their fortress is a walking mountain called Crucible
+	* Crucible roams the meridian mountain range
+	* Their constructs and mining equipment all run on Thread
+	* Before the rise of House Corta they employed mages
+	* These mages would summon and maintain their golems
+	* Notable Mackenzies:
+		* Robert Mackenzie: aged founder. More warforged than man
+		* Jade Sun-Mackenzie: second wife of Robert Mackenzie
+		* Ace: Chief of police
+* House Sun
+	* The House of Secrets
+	* Chinese vibes
+	* Controls information with spies and assassins
+	* Weave Thread into boots, cloaks, and the like
+	* They have a fortress in the East: the Palace of Eternal Light
+	* And a fortress in the west: the Palace of Eternal Darkness
+	* They have oracles at each palace who wear blindfolds of Thread
+	* Notable Suns:
+		* Lady Sun: current leader
+		* Jade Sun: wife to Duncan Mackenzie
+* House Asamoah
+	* The House of Life
+	* The Dispossessed vibes
+	* Grow all the words food
+	* Live in the garden city of Twe
+	* Don’t use Thread
+	* The Golden Stool is a great tree at the center of Twe
+	* The leader is whoever sits on the golden stool
+* House Vorontsov
+	* House of Transport
+	* Russian vibes
+	* Weave sails for their sky ships out of Thread
+	* The flying city of Sankt Peter is their stronghold
+	* They worship The Saints which they call give the title Sankt
+	* Notable Vorontsovs:
+		* Valery Vorontsov: current leader, parapalegic with wings
+		
+### Thread
+* Thread is a magical substance produced by the Cortas, and used to power most modern magic.
+* All magic comes from the soul. Unknown to anyone the Cortas are unraveling innocent familiars to make Thread.
+
+### Xolotl
+* There was one god that did not bind himself to the forge at the end of the world. The trickster god Xolotl. On the first day, he shapeshifted into a serpent and slithered away, but he was soon caught. On the second day, he disguised himself as a coyote and this lasted longer, but ultimately he was still caught. On the third and final day when all the gods were to be bound to the forge, he shapeshifted into an axolotl and slipped away. Xolotl still roams Para to this day; although, no one knows it. He is the only unchained god.
+* Lady Sun is Xolotl
+
+### The Nature of Magic
+* Everyone is born with a soul that manifests in the physical world as they’re familiar. All magic derives from these souls.
+* Wizards perform arcane heart surgery breaking their souls and reconstructing them to become more powerful. Wizards familiars often appear like shattered glass.
+* Arcane Trickster Rogues are like wizards through study they are able to somewhat open their souls and let magic pass through more easily, but unlike wizards they do not completely reshape their souls merely opening them up a little bit.
+* Warlocks sell their souls and in return are loaned the magic of a being with a much greater more powerful soul than their own. Consequently warlocks go without familiars.
+* Witches bond closely with their souls and pull them further into the material plane drawing on their souls' magic and the magic of other untethered souls to fuel their spells.
+* Paladins and Clerics give their families up to a higher power, and become part of that power in return. They still have their familiars, but they are now an extension of a greater being’s soul. On loan to their original owner until their death. Each person who worships a saint bolsters that saint's power by amassing the number of souls it has control over. Oathbreakers who leave the church they have sworn themselves to irrevocably corrupt their familiar.
+* Druids and Rangers draw gently on the souls of all living things around them. However, druids are careful never to take more than they need, and never to take so much that they cause harm. Hypothetically a druid of evil intentions could make all the land wither around them as they sucked the magic out of it, but in practice anybody who would do that would never be instructed in the circles of druidry.
+* Sorcerers’ souls are naturally more powerful than other humans. Whether because of a magical ancestor or because of pure luck sorcerers familiars are usually larger than typical farmilars.
+* Bards are a combination of arcane tricksters and sorcerers. Like arcane tricksters they may have somewhat opened their soul through study, and like sorcerers they can have some innate power though perhaps their bloodline connection is more distant.
+
+### The Founders
+* Founder: Adriana is human but her house is new (~ 80 yrs)
+* Founder: Robert is an old fuckin elf with machines that keep him alive
+* Founder: Lady Sun is a ridiculous healthy ridiculous old elf
+* The rest of the founders are dead. Replaced by leaders
+* Leader of VTO: Valery
+* Leader of the house of growth: a democratic group called the golden stool
+
+### The Saints
+* Ianite - Justice
+* Peter - Journeys
+* Alina - Light & power
+* Nikolai - Sailors, honor, & rascals
+* Zulie - Threads
+
+### Magic Items
+* The Headband of 19 int
+  * The headband has functioned in 3 different ways
+  * As an int boost for Daryun and grass
+  * Previously stored spells by the past owner on Lily initially putting it on
+  * As a hypnotic focus for gray
+* The Bridge
+  * "Something slithers past you in the dark. You feel all the nightmares that have come out when the sun goes down, since the cave times, when people huddled together in fear, for safety, and for warmth. All those nightmares are swirling around you and only the bridge is holding them at bay. Now is the time to be afraid of the dark. You are taken by the absolute certainty that something is about to creep over your face, but all you can do is close your eyes: it makes no difference to what you see or feel. The darkness is complete. You begin to hallucinate. You are a small child, walking home from school, at night, down the one road with no streetlights. No matter how many times you do it, it never gets any easier, never gets any better. You are deep in the sewers, lost in a labyrinth, a beast is waiting for you in the sewers ahead.  You know the beast is waiting. It charges at you, through the dark. You die, and you keep walking. Slowly, agonizingly slowly, it charges at you, over and over, through the dark, but all you can do is keep walking. There is a flare so bright it hurts. It appears you have crossed the bridge successfully."
