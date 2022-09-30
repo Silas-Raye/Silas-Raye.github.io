@@ -1,23 +1,269 @@
 ---
-title: "Luke's Campaign Notebook"
+title: "City the Gods Forgot Campaign Notebook"
 output: html_document
 ---
 
 Table of Contents
 -----------------
-* [Arc Plans]
-* [Past Session Plans]
-* [Future Session Plans]
-* [Worldbuilding Notes]
+* [__Arc Plans__]
+  * [Arc 1]
+  * [Arc 2]
+  * [Arc 3]
+* [__Silas' Session Plans__]
+* [__Ember's Notes__]
+* [__Worldbuilding Notes__]
+  * [Prehistory]
+  * [9 Gods and 9 Worlds]
+  * [NPCs]
+  * [Places]
 
-Arc Plans
----------
+__Arc Plans__
+-------------
 
-Past Session Plans
-------------------
+## Arc 1
+* The white order and the black veil
+* Lead by Xander
+* Started off as a monk several hundred years ago
+* Made his fortune as a bounty hunter and adventurer
+* Went crazy after his close friend died
+* He was exposed to ink
+  * Ink and etherium are the two major power sources in the city
+  * Using ink, etherium, and help from malice labs he developed advanced cybernetics
+* He plans to assassinate the mayor and detonate a bomb to kill everyone in low town
+* See [Ember's Notes] for info on his 5 lieutenants
+  * Winter is one of his lieutenants
+  * Winter is also basically a mind controlled cybernetic zombie robot
 
-Future Session Plans
---------------------
+## Arc 2
+* Malace labs
+* Run by a beholder in a supercomputer named The Sightless One
+* Instead of eye stalks he sees through cameras
+* He wants to take over all the tech in the city
+  * He hasn't yet because the the mayor asked him not too and the mayor is one of his clients
+  * He is also stopped by a magic firewall
+* He is working on two major projects which he funds by selling biotech and doing war crimes
+  * Project 1 is using ink and etherium to make a biomechanical army
+    * Maddie's character is the prototype
+  * Project 2 is creating a draco-litch
+    * Using the corpse of Urxa
+    * Urxa is the dragon who died in the prolog
 
-Worldbuilding Notes
--------------------
+## Arc 3
+* Aelana, the blight mother wants to let a giant cosmic serpent devour the 9 worlds
+* She has 5 kids/corpse homunculi
+* Each one has a piece of her essence
+* All of their names are spelled weird, but for these notes I'll use the normal spellings
+  * Crimson - Blood magic
+  * Ivory - Bone magic
+  * Celadon - Illusion magic
+  * Blue - Mind control
+  * Ebony - Ink
+  * Magenta (6/5)
+    * Magenta holds the parts that keep Aleana human
+    * She dosn't have any supernatural powers so she's not included in the 5
+* Alana's plan is curently being stopped by the lock
+* It locks all the planes in place and dosn't let souls leave Seros to be judged by Soluna
+* The lock is also what makes the prisms work
+* It can be unlocked suing 5 of the 9 swords symbolizing a majority agreement among the gods
+* The 5 locks are called
+  * The storm point
+  * The frost point
+  * The melting point
+  * The stone point
+  * The sky point
+
+__Silas' Session Plans__
+------------------------
+None yet
+
+__Ember's Notes__
+-----------------
+I'll transcribe my handwritten notes later
+
+__Worldbuilding Notes__
+-----------------------
+
+## Prehistory
+* 3 Elders
+    * Beings made of the cosmos and also who made the cosmos
+    * Time - Lawful
+    * Space - Chaotic
+    * Creation - Neutral
+        * AKA [Ora] aka the faceless king
+        * Created the other 8 gods and the associated worlds
+
+## 9 Gods and 9 Worlds
+The Gods  | 
+------------- | ------------- | ------------- | -------------
+-  | Good | Neutral  | Evil
+Lawful | [Hila]  | [Soluna]  | [Asmosa]
+Neutral | [Modall]  | [Ora]  | [Grix]
+Chaotic | [Bahamut]  | [Sprygg]  | [Tiamat]
+
+### Ora
+* Epithets and other aliases
+  * God of the 9 worlds
+  * The faceless king
+* World
+  * Seros
+  * Lovotos is on Seros
+* Sword
+  * The Worlds edge
+  * At the bottom of The Pike
+* Other Info
+  * Progenitor of giants
+  * Most commonly worshiped
+  * Often depicted as a tall white humanoid silhouette with no features
+  * Created the ring of elemental chaos
+    * Goes around the 9 worlds and protects them
+    * Like the elemental planes from the forgotten realms
+
+### Hila
+* Epithets and other aliases
+  * The Sky Shifter
+* World
+  * Helios
+* Sword
+  * Dawn sky
+  * Rapier
+  * Lost
+* Other Info
+  * Daughter of Ora
+  * Lover of Modall
+  * Created the stars
+  * Mother of Sprygg and Soluna
+
+### Modall
+* Epithets and other aliases
+  * The watchful sentinel
+  * God of protection
+* World
+  * Aetheros
+  * Endless wheat field
+  * Population is just him and his 5 angels
+  * One of whom is Zepher
+* Sword
+  * The wind blade
+  * Zepher has it
+* Other Info
+  * Lover of Hila
+  * Father of Sprygg, Soluna, and Grix
+  * Security gaurd of the 9 worlds and trusted litunent of the faceles king
+
+### Bahamut
+* Epithets and other aliases
+  * The platinum dragon
+  * God of heroism and good mortals
+* World
+  * Valoros
+* Sword
+  * The holly avenger
+  * In a museum in hightown
+* Other Info
+  * He believes that good mortals deserve a good afterlife
+
+### Soluna
+* Epithets and other aliases
+  * The raven queen
+  * God of the dead
+* World
+  * Essos
+  * Basicly the shadowfell
+* Sword
+  * Deaths edge
+  * Maya has it
+* Other Info
+  * Judges the fates of souls and sends them either to Valoros or Hell
+  * Has Valkyries one of whom is Maya
+
+### Sprygg
+* Epithets and other aliases
+  * God of life
+  * World wanderer
+* World
+  * Phylos
+  * An endless realm of bizarre biomes and weird flora and fauna
+* Sword
+  * Wildcrafter
+  * Destoryed
+* Other Info
+  * Progenitor of wildlings
+  * Created all the flora and fauna on Seros
+
+### Asmosa
+* Epithets and other aliases
+  * Queen of the devils
+  * God of sin
+* World
+  * Asmos
+* Sword
+  * Helfire engine
+  * Noot's character has it
+* Other Info
+  * The "Problem Child"
+  * Disguised herself as Hila to lure Modall into sex
+  * Mother of Grix
+
+### Grix
+* Epithets and other aliases
+  * Prince of hell
+  * God of evil mortals
+* World
+  * Daemos
+  * AKA hell
+* Sword
+  * Wave of sorrow
+  * In his tomb
+* Other Info
+  * One devil wing and one angle wing
+  * Trapped in a tomb under Lovotos
+
+### Tiamat
+* Epithets and other aliases
+  * Dragon queen
+* World
+  * Drakos
+* Sword
+  * Crown splitter
+  * Destroyed
+* Other Info
+
+## NPCs
+* Maya
+* Zepher
+  * Was placed on Seros as a defender of the plane by the gods, but he's not allowed to interfere in mortal affairs
+* Sir Billingsworth
+* Willow
+  * Ember's wildling friend who owns a magic shop
+* Arma
+  * Yuan-ti who sold Jack his spell orb
+  * Arms dealer to low town
+  * Underling of Ohm
+* Ohm, the black bull
+* Carter
+  * Most powerful pyromaniac in the city
+  * Got busted out of malice labs
+  * Half brother known as Barter Man
+* Barter Man
+  * Runs low town from behind the scenes
+* Dr Byla Crasher
+  * Druid who oversees the gilded tree in hightown
+  * Heads to corporation that is malice labs main competitor
+* Stygian and Pyro
+  * Day job is running a construction company togther
+  * It's called Stygian and Pyro inc.
+  * Both moonlight as vigilante/superheros
+* The 3 Meisters run the city
+  * Allister Barr meister of governance
+  * Edmond Tully meister of magic
+  * Drakis Thrun meister of industry
+
+## Places
+* Lovotos, the city the gods forgot
+  * Lowtown
+  * Midtown
+    * East side
+    * West side
+      * The pike
+    * Central
+  * Hightown
