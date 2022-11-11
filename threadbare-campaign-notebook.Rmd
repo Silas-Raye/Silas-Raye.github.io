@@ -5,6 +5,7 @@ output: html_document
 
 Table of Contents
 -----------------
+* The party is level 14
 * [Arc Plans]
   * [Arc 01 Plan]
   * [Arc 02 and 03 Plan]
@@ -23,6 +24,7 @@ Table of Contents
   * [Session 11]
   * [Session 12]
   * [Session 13]
+  * [Interlude 01 (Lilly and Cadence's Wedding)]
   * [Future Sessions]
 * [Worldbuilding Notes]
   * [Premise]
@@ -493,8 +495,61 @@ Session Plans
 * Too much of the unraveling god is gone and the ritual stops
 * Lady sun sacrifices herself to the ritual saying she learned selflessness for the party and she's ready to help her people in the same way her brothers and sisters did
 
+### Interlude 01 (Lilly and Cadence's Wedding)
+* Recap what the players accomplished during the campaign. The fall of House Corta aka the Unraveling happened in 1066 PA. It is curently 1070 PA.
+* See what the players are up to now...
+* Go around the table and ask each player what their doing right this moment
+* Go to Lilly last. She is sitting looking at a peice of paper with Cadence. On the peice of paper is a list of people they've invited to their wedding
+  * Que
+  * Daryun
+  * Zulie
+  * Celeste (Gift: The wedding cake)
+  * Hecate (Gift: Sing [a song](https://www.youtube.com/watch?v=VZAizGVKErw&ab_channel=IliaKate) and Cadence wrote)
+  * Arwen (A new form of compound bow she's been developing)
+  * The covens kids
+    * Cadence asks Lilly "How many are there at this point?"
+  * Joff & Garret (Gift: Grass the Flumph)
+  * Mosscap (Gift: Mushrooms)
+  * Takver (Gift: A well made pair of once magical boots)
+    * Magic items are super rare since the Unraveling
+    * Many of the party's magic items stopped working when their thread unraveled
+  * Shevek (Gift: A new body for Frank)
+  * Valery Vorontsov (Gift: A prototype car)
+  * Jade Sun (The promises of a tour of the newly rebuilt palace of eternal darkness for the kids of the coven, and jobs for any kids old enough to want them)
+  * Ace (Gift: Beautifully forged matching swords)
+    * "You really got me when you told me that letter was about fisting. The iron hand, huh. Nice play on words"
+    * Ace is now the head of house Mackenzie. Robert's life support throne broke during the Unraveling
+  * Rebecca (Gift: Dragonfly mounts for both brides)
+  * Onyx & Iris (Gift: Wedding rings)
+* They have to make a seating chart and pick a...
+  * Best man & brides maid
+  * Officiant
+  * Ring bearer
+  * Flower girl
+* The people who are gonna be in the wedding show up at the meadow first
+* They do a wedding rehearsal and all sorts of stuff goes comically wrong
+* Then everyone goes for a rehearsal dinner
+* Halfway through dinner Jack's character bursts through one wall engaged in fighting off several combatants
+* They do combat, befriend Jack's character, and all go back to the meadow for a long rest
+* Do a one on one getting ready/pep talk w/ each of the brides and the maid of honor/best man
+* __The Wedding__
+  * Officiant welcomes everybody and introduces the brides
+  * Maid of honor speech
+  * Best man speech
+  * Rings are presented
+  * Officiant: In the name of the saints, do you, Cadence, take Lilly, to have and to hold from this day forward, for better, for worse, in sickness, in health, entwined and unraveled, to love and to cherish, until death do you part?
+  * Officiant: And do you Lilly, in the name of the saints, take Cadence, to have and to hold from this day forward, for better, for worse, in sickness, in health, entwined and unraveled, to love and to cherish, until death do you part?
+  * Rings go on
+  * You may kiss the bride!!
+* After the ceremony the brides are given boquets to hold while Zulie sketches them so she can make a painting later
+* They throw the boquets
+  * Joff catches one
+  * The party member with the highest slight of hand check catches the other
+* They cut the cake and the party begins with guests walking around, talking, and mingling
+* __Notes__
+  * Maybe have Cadence tell Zulie not to show up in full saintly splendor so as not to outshine the brides
+
 ### Future Sessions
-* Lily and Cadence's wedding
 * Que looking for Ishanti
 * Somthing for Daryun
 * Jof and Garet wedding that turns into a Grass themed one shot
