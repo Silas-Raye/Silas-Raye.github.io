@@ -6,8 +6,8 @@ var countdownfunction = setInterval(function() {
     
   var distance = countDownDate - now;
     
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var megaminutes = Math.floor(minutes / 3);
+  var totalMinutes = Math.floor(distance / (1000 * 60));
+  var megaminutes = Math.floor(totalMinutes / 3);
     
   document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes";
     
