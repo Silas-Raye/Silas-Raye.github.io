@@ -22,5 +22,5 @@ var countdownfunction = setInterval(function() {
 document.getElementById('generateButton').addEventListener('click', generateResume);
 
 function generateResume() {
-  document.getElementById("megaminutes").innerHTML = "test";
+  document.getElementById("test").innerHTML = "test";
 }
