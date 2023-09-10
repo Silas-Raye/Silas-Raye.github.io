@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "docxtemplater": "^3.39.1",
-    "fs": "^0.0.1-security",
-    "jszip": "^3.10.1",
-    "pizzip": "^3.1.4"
-  }
-}

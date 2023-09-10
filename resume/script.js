@@ -1,17 +1,15 @@
+// this code works localy if you reinstall the requirements using npm
 
+// to run it sever side prompt find with the following...
+// my code isn't working. the error is Uncaught ReferenceError: require is not defined. here is the code...
+// give the html code and the js code 
 
-// ---------------------------------------------------------------------------
-
-document.getElementById('generateButton').addEventListener('click', generateResume);
-
+// script.js
 const fs = require('fs');
 const Docxtemplater = require('docxtemplater');
+const PizZip = require('pizzip');
 
 function generateResume(resumeData) {
-  console.log('started function')
-
-  const PizZip = require('pizzip');
-  const Docxtemplater = require('docxtemplater');
 
   const template = fs.readFileSync('resume_template.docx');
   const zip = new PizZip(template);
@@ -28,14 +26,13 @@ function generateResume(resumeData) {
 
   // Save the document to a file
   fs.writeFileSync('resume.docx', buffer);
-
-  console.log('finsihed function')
-  
 }
 
 // Example usage
 const resumeData = {
-  name: 'Joe Schome',
-  email: 'joeschmoe4th@gmail.com',
+  name: 'John Dope',
+  email: 'johndoe@example.com',
   // Add more data fields as needed
 };
+
+generateResume(resumeData);
