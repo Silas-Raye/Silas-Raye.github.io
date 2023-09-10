@@ -19,17 +19,14 @@ var countdownfunction = setInterval(function() {
 
 // ---------------------------------------------------------------------------
 
-document.getElementById('generateButton').addEventListener('click', generateResume);
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('generateButton').addEventListener('click', generateResume);
+});
 
 const fs = require('fs');
 const Docxtemplater = require('docxtemplater');
 
 function generateResume(resumeData) {
-  // // Load the template file
-  // const template = fs.readFileSync('resume_template.docx');
-
-  // // Create a new Docxtemplater instance
-  // const doc = new Docxtemplater(template);
 
   const PizZip = require('pizzip');
   const Docxtemplater = require('docxtemplater');

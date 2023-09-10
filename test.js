@@ -30,7 +30,7 @@ function generateResume(resumeData) {
 
 // Example usage
 const resumeData = {
-  name: 'John Doe',
+  name: 'John Dope',
   email: 'johndoe@example.com',
   // Add more data fields as needed
 };
