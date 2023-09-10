@@ -25,6 +25,7 @@ const fs = require('fs');
 const Docxtemplater = require('docxtemplater');
 
 function generateResume(resumeData) {
+  console.log('started function')
 
   const PizZip = require('pizzip');
   const Docxtemplater = require('docxtemplater');
@@ -42,14 +43,10 @@ function generateResume(resumeData) {
   // Get the generated document as a buffer
   const buffer = doc.getZip().generate({ type: 'nodebuffer' });
 
-  // // Save the document to a file
-  // fs.writeFileSync('resume.docx', buffer);
+  // Save the document to a file
+  fs.writeFileSync('resume.docx', buffer);
 
-  // Get the generated document as a Blob
-  const blob = new Blob([buffer], { type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
-
-  // Save the document using FileSaver.js
-  saveAs(blob, 'resume.docx');
+  console.log('finsihed function')
   
 }
 
