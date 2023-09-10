@@ -16,3 +16,11 @@ var countdownfunction = setInterval(function() {
     document.getElementById("countdown").innerHTML = "EXPIRED";
   }
 }, 1000);
+
+// ---------------------------------------------------------------------------
+
+document.getElementById('generateButton').addEventListener('click', generateResume);
+
+function generateResume() {
+  document.getElementById("megaminutes").innerHTML = "test";
+}
