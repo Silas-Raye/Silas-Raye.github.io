@@ -1,3 +1,7 @@
+if (!/Mobi|Android|iPhone|iPad/i.test(navigator.userAgent)) {
+    // Code to be executed on the desktop version
+    // ...
+  
 const nodes = document.querySelectorAll('.node');
 const canvas = document.getElementById('connections');
 const ctx = canvas.getContext('2d');
@@ -65,3 +69,4 @@ setInterval(() => {
         drawConnections();
     }, 500); // Change back after 500ms
 }, 1000); // Change a random connection every 1000ms
+}
