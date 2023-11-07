@@ -1,4 +1,4 @@
-/* header {
+header {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -91,98 +91,6 @@ ul {
     margin-top: 10px; /* Adjust the spacing between the main title and subtitle */
 }
 
-.main-title, .subtitle {
-    background-color: black;
-    padding: 5px 10px; /* Adjust the padding for the black rectangles */
-} */
-
-/* Header styles */
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #444444;
-}
-
-/* Network styles */
-.anim_network {
-    display: flex;
-}
-
-/* Layer styles */
-.anim_nodes {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 148px;
-}
-
-/* Node styles */
-.anim_node {
-    width: 0px;
-    height: 0px;
-    background-color: #ffffff;
-    border-radius: 50%;
-    margin: 12px 0;
-}
-
-/* Canvas styles */
-canvas {
-    position: absolute;
-    top: 0;
-    left: -160px;
-}
-
-/* Body styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f7f7f7;
-    color: #333;
-}
-
-/* Section styles */
-section {
-    background-color: #fff;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-/* Entry styles */
-.entry {
-    margin-bottom: 20px;
-}
-
-/* Title styles */
-.title {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-/* Main title styles */
-.main-title {
-    font-size: 3em;
-    color: white;
-    display: inline-block;
-}
-
-/* Subtitle styles */
-.subtitle {
-    font-size: 1.5em;
-    color: white;
-    display: block;
-    margin-top: 10px; /* Adjust the spacing between the main title and subtitle */
-}
-
-/* Main title and subtitle styles */
 .main-title, .subtitle {
     background-color: black;
     padding: 5px 10px; /* Adjust the padding for the black rectangles */
