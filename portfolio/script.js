@@ -1,6 +1,7 @@
-let mobile = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent)
+let mobile = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
 
 // Network animation
+// Bug - doesn't show on mobile (intentional), but you can still scroll way to off the page to the right
 if (!mobile) {
     // Code to be executed on the desktop version
   
