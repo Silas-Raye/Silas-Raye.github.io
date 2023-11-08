@@ -95,6 +95,23 @@
   </header>
   
   <section id="education">
+        <div id="timestamp"></div>
+        <script>
+            // Function to update the timestamp
+            function updateTimestamp() {
+              const timestampElement = document.getElementById('timestamp');
+              const now = new Date();
+              const timestamp = now.toLocaleString(); // Format the date and time
+          
+              timestampElement.textContent = `Posted on: ${timestamp}`;
+            }
+          
+            // Call the function initially
+            updateTimestamp();
+          
+            // Refresh the timestamp every second
+            // setInterval(updateTimestamp, 1000);
+          </script>
         <h2>Education</h2>
         <div class="entry">
             <h3>University of Florida</h3>
