@@ -95,3 +95,7 @@ ul {
     background-color: black;
     padding: 5px 10px; /* Adjust the padding for the black rectangles */
 }
+
+.hide-on-mobile {
+    display: none;
+}

@@ -1,4 +1,9 @@
 let mobile = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
+const networkDiv = document.querySelector('.network');
+
+if (mobile) {
+    networkDiv.classList.add('hide-on-mobile');
+}
 
 // Network animation
 // Bug - doesn't show on mobile (intentional), but you can still scroll way to off the page to the right
