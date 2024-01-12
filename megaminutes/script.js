@@ -9,7 +9,7 @@ var countdownfunction = setInterval(function() {
   var totalMinutes = Math.floor(distance / (1000 * 60));
   var megaminutes = Math.floor(totalMinutes / 3);
     
-  document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes till I see you ❤️";
+  document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes till I see you 🐞";
     
   if (distance < 0) {
     clearInterval(countdownfunction);
