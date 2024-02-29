@@ -1,4 +1,4 @@
-var countDownDate = new Date("Feb 22, 2024 18:30:00").getTime();
+var countDownDate = new Date("April 5, 2024 17:30:00").getTime();
 
 var countdownfunction = setInterval(function() {
 
@@ -10,7 +10,7 @@ var countdownfunction = setInterval(function() {
   var megaminutes = Math.floor(totalMinutes / 3);
     
   // document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes till I see you 🐞";
-  document.getElementById("megaminutes").innerHTML = "🦷😭";
+  document.getElementById("megaminutes").innerHTML = megaminutes + "megaminutes till I see you 🕶️";
     
   if (distance < 0) {
     clearInterval(countdownfunction);
