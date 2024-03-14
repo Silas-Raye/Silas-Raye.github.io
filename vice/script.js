@@ -1,7 +1,7 @@
 var s_startTime = new Date("Feb 20, 2024 00:00:00").getTime();
-var a_startTime = new Date("March 06, 2024 22:00:00").getTime();
-var w_startTime = new Date("March 07, 2024 03:00:00").getTime();
 var g_startTime = new Date("March 07, 2024 03:00:00").getTime();
+var a_startTime = new Date("March 13, 2024 22:00:00").getTime();
+var w_startTime = new Date("March 13, 2024 22:00:00").getTime();
 
 var countUpFunction = setInterval(function() {
 
@@ -29,8 +29,8 @@ var countUpFunction = setInterval(function() {
   var g_minutes = Math.floor((g_elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
 
   document.getElementById("countup_s").innerHTML = "▶️: " + s_days + "d " + s_hours + "h " + s_minutes + "m ";
+  document.getElementById("countup_g").innerHTML = "💰: " + g_days + "d " + g_hours + "h " + g_minutes + "m ";
   document.getElementById("countup_a").innerHTML = "🍻: " + a_days + "d " + a_hours + "h " + a_minutes + "m ";
   document.getElementById("countup_w").innerHTML = "🍃: " + w_days + "d " + w_hours + "h " + w_minutes + "m ";
-  document.getElementById("countup_g").innerHTML = "💰: " + g_days + "d " + g_hours + "h " + g_minutes + "m ";
     
 }, 1000);
