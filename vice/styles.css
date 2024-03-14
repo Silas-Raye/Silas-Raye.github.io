@@ -2,11 +2,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200vh;
+    height: 100vh;
     background-color: #f3f3f3;
 }
 
 #countdown p {
-    font-size: 20em;
+    font-size: 50em;
     text-align: center;
 }
