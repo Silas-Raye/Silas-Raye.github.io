@@ -6,7 +6,7 @@ body {
     background-color: #f3f3f3;
 }
 
-#countdown p {
-    font-size: 100px;
+#countUpFunction {
+    font-size: 35px;
     text-align: center;
 }
