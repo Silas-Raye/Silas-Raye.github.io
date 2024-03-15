@@ -1,7 +1,7 @@
 var s_startTime = new Date("Feb 20, 2024 00:00:00").getTime();
 var g_startTime = new Date("March 07, 2024 03:00:00").getTime();
-var a_startTime = new Date("March 13, 2024 22:00:00").getTime();
-var w_startTime = new Date("March 13, 2024 22:00:00").getTime();
+var w_startTime = new Date("March 15, 2024 07:00:00").getTime();
+var a_startTime = None
 
 var countUpFunction = setInterval(function() {
 
