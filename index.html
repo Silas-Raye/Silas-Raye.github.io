@@ -1,15 +1,188 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Silas' Websites</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silas Raye Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Welcome to Silas' Websites</h1>
-    <p>Check out the following links:</p>
-    <ul>
-        <li><a href="https://silas-raye.github.io/resume/silasraye.html">Resume</li>
-        <li><a href="https://silas-raye.github.io/megaminutes/countdown.html">Megaminutes Countdown</a></li>
-    </ul>
+  <header>
+      <div class="network">
+          <div class="layer">
+              <div class="node" id="node01"></div>
+              <div class="node" id="node02"></div>
+              <div class="node" id="node03"></div>
+              <div class="node" id="node04"></div>
+              <div class="node" id="node05"></div>
+              <div class="node" id="node06"></div>
+              <div class="node" id="node07"></div>
+              <div class="node" id="node08"></div>
+          </div>
+          <div class="layer">
+              <div class="node" id="node11"></div>
+              <div class="node" id="node12"></div>
+              <div class="node" id="node13"></div>
+              <div class="node" id="node14"></div>
+              <div class="node" id="node15"></div>
+              <div class="node" id="node16"></div>
+              <div class="node" id="node17"></div>
+              <div class="node" id="node18"></div>
+          </div>
+          <div class="layer">
+              <div class="node" id="node21"></div>
+              <div class="node" id="node22"></div>
+              <div class="node" id="node23"></div>
+              <div class="node" id="node24"></div>
+              <div class="node" id="node25"></div>
+              <div class="node" id="node26"></div>
+              <div class="node" id="node27"></div>
+              <div class="node" id="node28"></div>
+          </div>
+          <div class="layer">
+              <div class="node" id="node31"></div>
+              <div class="node" id="node32"></div>
+              <div class="node" id="node33"></div>
+              <div class="node" id="node34"></div>
+              <div class="node" id="node35"></div>
+              <div class="node" id="node36"></div>
+              <div class="node" id="node37"></div>
+              <div class="node" id="node38"></div>
+          </div>
+        <div class="layer">
+              <div class="node" id="node41"></div>
+              <div class="node" id="node42"></div>
+              <div class="node" id="node43"></div>
+              <div class="node" id="node44"></div>
+              <div class="node" id="node45"></div>
+              <div class="node" id="node46"></div>
+              <div class="node" id="node47"></div>
+              <div class="node" id="node48"></div>
+          </div>
+      </div>
+      <canvas id="connections"></canvas>
+      <div class="title">
+        <div class="main-title" id="main-title-placeholder"></div>
+        <div class="subtitle" id="subtitle-placeholder"></div>
+      </div> 
+      <!-- Make the main and subtitles type in -->
+      <script>
+        const mainTitle = document.getElementById('main-title-placeholder');
+        const subtitle = document.getElementById('subtitle-placeholder');
+
+        const mainTitleText = 'Silas Raye';
+        const subtitleText = 'AI Expert';
+
+        function typeText(element, text, delay) {
+            let i = 0;
+            const intervalId = setInterval(function () {
+                element.textContent += text[i];
+                i++;
+                if (i >= text.length) {
+                    clearInterval(intervalId);
+                }
+            }, delay);
+        }
+
+        let typing_speed = 150;
+
+        typeText(mainTitle, mainTitleText, typing_speed);
+        setTimeout(function () {
+            typeText(subtitle, subtitleText, typing_speed);
+        }, mainTitleText.length * typing_speed); // Start subtitle typing after the main title is complete
+    </script>
+    <script src="script.js"></script>
+  </header>
+  
+  <section id="education">
+        <div id="timestamp"></div>
+        <script>
+            // Function to update the timestamp
+            function updateTimestamp() {
+              const timestampElement = document.getElementById('timestamp');
+              const now = new Date();
+              const timestamp = now.toLocaleString(); // Format the date and time
+          
+              timestampElement.textContent = `Posted on: ${timestamp}`;
+            }
+          
+            // Call the function initially
+            updateTimestamp();
+          
+            // Refresh the timestamp every second
+            // setInterval(updateTimestamp, 1000);
+          </script>
+        <h2>Education</h2>
+        <div class="entry">
+            <h3>University of Florida</h3>
+            <p>December 2023</p>
+            <p>Bachelor's Degree in Data Science, College of Liberal Arts and Sciences</p>
+            <p>Gainesville, FL</p>
+            <p>AI Certificate, Herbert Wertheim College of Engineering</p>
+            <p>Relevant Coursework:</p>
+            <ul>
+                <li>Statistical Learning</li>
+                <li>Statistical Computing</li>
+                <li>Database Systems</li>
+                <li>Probability and Statistics Theory</li>
+                <li>Regression Analysis</li>
+                <li>Computational Math</li>
+                <li>AI Fundamentals</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <div class="entry">
+            <h3>Programming Languages:</h3>
+            <ul>
+                <li>Python (Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib)</li>
+                <li>R (Data Cleaning, Data Analysis, Data Visualization)</li>
+                <li>SQL (Relational Databases, Queries, Database Design)</li>
+                <li>C++ (Data Structures and Algorithms)</li>
+            </ul>
+            <h3>Software:</h3>
+            <ul>
+                <li>Microsoft Office Suite</li>
+                <li>Google Office Suite</li>
+                <li>MS Visual Studio</li>
+                <li>GitHub Workflows</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <div class="entry">
+            <h3>Satchel's Pizza</h3>
+            <p>August 2018 - Present</p>
+            <p>Gainesville, FL</p>
+            <p>Soda maker, waiter, cashier, and host</p>
+            <p>Versatile Team Member (Host, Waiter, Cashier, Soda Maker)</p>
+            <p>Demonstrated commitment, loyalty, and adaptability throughout my tenure.</p>
+            <p>Promoted from host to various roles, including waiter, cashier, and soda maker.</p>
+            <p>Received five raises in recognition of exceptional performance.</p>
+            <p>Emphasized attention to detail in crafting precise beverages.</p>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="entry">
+            <h3>Boom + Bust Video Game Demo</h3>
+            <p>I took on the challenge of creating the Boom + Bust video game demo entirely on my own, expanding my programming skills by mastering a new language called Processing. This project provided valuable experience in adaptability and learning. Additionally, I leveraged AI techniques to generate most of the game's artwork, showcasing my hands-on exposure to AI-generated art.</p>
+        </div>
+
+        <div class="entry">
+            <h3>Sentiment Analysis for Stock Prediction</h3>
+            <p>In this data-driven project, I conducted extensive data analysis and harnessed my data science expertise to develop a predictive model. Using Python and Jupyter Notebooks, I employed sentiment analysis techniques on news headlines, demonstrating my analytical abilities. My proficiency in Python and MS Visual Studio played a crucial role in the project's success.</p>
+        </div>
+
+        <div class="entry">
+            <h3>Resume Creation Program (Team Leadership)</h3>
+            <p>While leading the development of the Resume Creation Program, I gained practical experience with state-of-the-art language models by integrating the OpenAI API into the project. I effectively managed the team's collaborative efforts through GitHub workflows, fostering a dynamic and organized work environment. This project bolstered my communication, teamwork, and relationship building skills, while also showcasing my problem-solving abilities.</p>
+        </div>
+    </section>
 </body>
 </html>
