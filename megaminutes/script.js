@@ -1,18 +1,15 @@
-var countDownDate = new Date("April 5, 2024 17:30:00").getTime();
+var startDate = new Date("April 5, 2024 17:30:00").getTime();
 
 var countdownfunction = setInterval(function() {
 
   var now = new Date().getTime();
     
-  var distance = countDownDate - now;
+  var elapsedTime = now - startDate;
     
-  var totalMinutes = Math.floor(distance / (1000 * 60));
+  var totalMinutes = Math.floor(elapsedTime / (1000 * 60));
   var megaminutes = Math.floor(totalMinutes / 3);
+  var days = Math.floor(totalMinutes / 1440);
     
-  document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes till I see you 🐞";
-    
-  if (distance < 0) {
-    clearInterval(countdownfunction);
-    document.getElementById("countdown").innerHTML = "EXPIRED";
-  }
+  document.getElementById("megaminutes").innerHTML = megaminutes + " megaminutes";
+  document.getElementById("days").innerHTML = days + " days";
 }, 1000);

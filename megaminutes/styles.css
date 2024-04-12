@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f3f3f3;
+    background-color: #282F3E;
 }
 
 #countdown p {
-    font-size: 2em;
+    font-size: 4em;
     text-align: center;
 }
