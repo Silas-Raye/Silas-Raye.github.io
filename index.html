@@ -1,188 +1,181 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Silas Raye Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-      <div class="network">
-          <div class="layer">
-              <div class="node" id="node01"></div>
-              <div class="node" id="node02"></div>
-              <div class="node" id="node03"></div>
-              <div class="node" id="node04"></div>
-              <div class="node" id="node05"></div>
-              <div class="node" id="node06"></div>
-              <div class="node" id="node07"></div>
-              <div class="node" id="node08"></div>
-          </div>
-          <div class="layer">
-              <div class="node" id="node11"></div>
-              <div class="node" id="node12"></div>
-              <div class="node" id="node13"></div>
-              <div class="node" id="node14"></div>
-              <div class="node" id="node15"></div>
-              <div class="node" id="node16"></div>
-              <div class="node" id="node17"></div>
-              <div class="node" id="node18"></div>
-          </div>
-          <div class="layer">
-              <div class="node" id="node21"></div>
-              <div class="node" id="node22"></div>
-              <div class="node" id="node23"></div>
-              <div class="node" id="node24"></div>
-              <div class="node" id="node25"></div>
-              <div class="node" id="node26"></div>
-              <div class="node" id="node27"></div>
-              <div class="node" id="node28"></div>
-          </div>
-          <div class="layer">
-              <div class="node" id="node31"></div>
-              <div class="node" id="node32"></div>
-              <div class="node" id="node33"></div>
-              <div class="node" id="node34"></div>
-              <div class="node" id="node35"></div>
-              <div class="node" id="node36"></div>
-              <div class="node" id="node37"></div>
-              <div class="node" id="node38"></div>
-          </div>
-        <div class="layer">
-              <div class="node" id="node41"></div>
-              <div class="node" id="node42"></div>
-              <div class="node" id="node43"></div>
-              <div class="node" id="node44"></div>
-              <div class="node" id="node45"></div>
-              <div class="node" id="node46"></div>
-              <div class="node" id="node47"></div>
-              <div class="node" id="node48"></div>
-          </div>
-      </div>
-      <canvas id="connections"></canvas>
-      <div class="title">
-        <div class="main-title" id="main-title-placeholder"></div>
-        <div class="subtitle" id="subtitle-placeholder"></div>
-      </div> 
-      <!-- Make the main and subtitles type in -->
-      <script>
-        const mainTitle = document.getElementById('main-title-placeholder');
-        const subtitle = document.getElementById('subtitle-placeholder');
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-        const mainTitleText = 'Silas Raye';
-        const subtitleText = 'AI Expert';
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#about-me">About Me</a></li>
+							<li><a href="#projects">My Projects</a></li>
+							<li><a href="#skills">My Skills</a></li>
+							<li><a href="#contact">Get in Touch</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
 
-        function typeText(element, text, delay) {
-            let i = 0;
-            const intervalId = setInterval(function () {
-                element.textContent += text[i];
-                i++;
-                if (i >= text.length) {
-                    clearInterval(intervalId);
-                }
-            }, delay);
-        }
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-        let typing_speed = 150;
+				<!-- about-me -->
+					<section id="about-me" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<div class="profile-image">
+								<img src="images/silas.png" alt="Silas Raye" class="circle-image">
+							</div>
+							<!-- add an image in a circle here the image is at images/silas.png -->
+							<h1>Hi my name is Silas Raye,</h1>
+							<p>I graduated from the University of Florida in December of 2023. I see myself as a strategic thinker, and someone who values the importance of data to extract insights and inform better decision making.</p>
+							<p>From childhood, I've had a fascination with numbers, stemming from my dyslexia which made them a more welcoming alternative to English. Embracing this affinity, I delved into the world of technology early on. My dyslexia led me to adopt emerging tools like voice-to-text and text-to-speech when they were still in their infancy. Because of this, I got to witnessing firsthand what AI could do, and I've been fascinated with it ever sense.</p>
+							<ul class="actions">
+								<li><a href="#projects" class="button scrolly">Check Out My Projects</a></li>
+							</ul>
+						</div>
+					</section>
 
-        typeText(mainTitle, mainTitleText, typing_speed);
-        setTimeout(function () {
-            typeText(subtitle, subtitleText, typing_speed);
-        }, mainTitleText.length * typing_speed); // Start subtitle typing after the main title is complete
-    </script>
-    <script src="script.js"></script>
-  </header>
-  
-  <section id="education">
-        <div id="timestamp"></div>
-        <script>
-            // Function to update the timestamp
-            function updateTimestamp() {
-              const timestampElement = document.getElementById('timestamp');
-              const now = new Date();
-              const timestamp = now.toLocaleString(); // Format the date and time
-          
-              timestampElement.textContent = `Posted on: ${timestamp}`;
-            }
-          
-            // Call the function initially
-            updateTimestamp();
-          
-            // Refresh the timestamp every second
-            // setInterval(updateTimestamp, 1000);
-          </script>
-        <h2>Education</h2>
-        <div class="entry">
-            <h3>University of Florida</h3>
-            <p>December 2023</p>
-            <p>Bachelor's Degree in Data Science, College of Liberal Arts and Sciences</p>
-            <p>Gainesville, FL</p>
-            <p>AI Certificate, Herbert Wertheim College of Engineering</p>
-            <p>Relevant Coursework:</p>
-            <ul>
-                <li>Statistical Learning</li>
-                <li>Statistical Computing</li>
-                <li>Database Systems</li>
-                <li>Probability and Statistics Theory</li>
-                <li>Regression Analysis</li>
-                <li>Computational Math</li>
-                <li>AI Fundamentals</li>
-            </ul>
-        </div>
-    </section>
+				<!-- projects -->
+					<section id="projects" class="wrapper style2 spotlights">
+						<section>
+							<a class="image"><img src="https://images.squarespace-cdn.com/content/v1/58fc1fb7be6594f266d63b72/1492924779692-2HOXKUSJHUX0039XP6LN/IMG_6908.jpg?format=1500w" alt="" data-position="center center" /></a>
+							<!-- href="pizza-project.html" -->
+							<div class="content">
+								<div class="inner">
+									<h2>Predicting Pizza Wait Times</h2>
+									<p>I created a linear model capable of forecasting wait times with a high degree of accuracy. I extracted 20 years of order data from an SQL database, cleaned the data in python and analyzed it R, and created visualizations and built reports to help communicate my findings. The project was a huge success and was implemented into the Point of Sale (or POS) system. The tool increased efficiency by helping wait staff to predict wait times on takeout order.</p>
+									<!-- <ul class="actions">
+										<li><a href="pizza-project.html" class="button">Learn more</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</section>
+						<section>
+							<a class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_York_Stock_Exchange_Facade_2015.jpg" alt="" data-position="top center" /></a>
+							<!-- href="stocks-project.html" -->
+							<div class="content">
+								<div class="inner">
+									<h2>Stock Market Forecasting</h2>
+									<p>I achieved a return on investment of 20% over 5 years by buying the same stocks as top wall street CEOs. I used a web scraper to collect data from the security and exchange commission's website (sec.gov). Next I used R to analyze and visualize the data. I discovered that insiders like CEOs and CFOs tend to beat the markets, sometimes by a lot, when they trade in company stock.</p>
+									<!-- <ul class="actions">
+										<li><a href="stocks-project.html" class="button">Learn more</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</section>
+						<section>
+							<a class="image"><img src="images/solemn.jpg" alt="" data-position="25% 25%" /></a>
+							<!-- href="mtg-project.html" -->
+							<div class="content">
+								<div class="inner">
+									<h2>Magic: The Gathering Sentiment Analysis</h2>
+									<p>This was a class project in which I attempted to forecast the prices of trading cards based on their in game abilities. I utilized various forms of natural language processing including bag of words, term frequency inverse document frequency, and large language models. I also made use of high dimensional linear approaches like lasso and ridge regression. The program was able to predict the price of cards with some accuracy, but more work is needed. However, this was one of my first serious data science projects and it taught me a lot.</p>
+									<!-- <ul class="actions">
+										<li><a href="mtg-project.html" class="button">Learn more</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</section>
+					</section>
 
-    <section id="skills">
-        <h2>Technical Skills</h2>
-        <div class="entry">
-            <h3>Programming Languages:</h3>
-            <ul>
-                <li>Python (Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib)</li>
-                <li>R (Data Cleaning, Data Analysis, Data Visualization)</li>
-                <li>SQL (Relational Databases, Queries, Database Design)</li>
-                <li>C++ (Data Structures and Algorithms)</li>
-            </ul>
-            <h3>Software:</h3>
-            <ul>
-                <li>Microsoft Office Suite</li>
-                <li>Google Office Suite</li>
-                <li>MS Visual Studio</li>
-                <li>GitHub Workflows</li>
-            </ul>
-        </div>
-    </section>
+				<!-- skills -->
+					<section id="skills" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>My Skills</h2>
+							<div class="features">
+								<section>
+									<span class="icon solid major fa-database"></span>
+									<h3>SQL</h3>
+									<p>I am an expert at querying and manipulating data in SQL. I also have a strong foundation in relational databases and database design.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Coding Languages</h3>
+									<p>I am proficient with Python and R. I am also versed in the relevant packages including NumPy, Pandas, Sklearn, Matplotlib, and more. I also have some experience with C++, Java, JavaScript, HTML, and CSS.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-file"></span>
+									<h3>Reporting</h3>
+									<p>I understand that as a data analyst it's my job to communicate my findings. I pride myself on my ability to communicate insights to non-technical audiences using tools like Power BI and Tableau.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-desktop"></span>
+									<h3>Digital Literacy</h3>
+									<p>I am adept all operating systems including Windows, Apple, and Linux. Additionally, I am proficient in a range of software tools. I am a quick learner, and I can swiftly adapt to new programs and technologies as needed.</p>
+								</section>
+							</div>
+						</div>
+					</section>
 
-    <section id="experience">
-        <h2>Professional Experience</h2>
-        <div class="entry">
-            <h3>Satchel's Pizza</h3>
-            <p>August 2018 - Present</p>
-            <p>Gainesville, FL</p>
-            <p>Soda maker, waiter, cashier, and host</p>
-            <p>Versatile Team Member (Host, Waiter, Cashier, Soda Maker)</p>
-            <p>Demonstrated commitment, loyalty, and adaptability throughout my tenure.</p>
-            <p>Promoted from host to various roles, including waiter, cashier, and soda maker.</p>
-            <p>Received five raises in recognition of exceptional performance.</p>
-            <p>Emphasized attention to detail in crafting precise beverages.</p>
-        </div>
-    </section>
+					<!-- contact -->
+					<section id="contact" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>Get in touch</h2>
+							<p>I'm currently looking for a job. So if you need a hard-working data analyst, go ahead and get in touch! The best way to contact me is email.</p>
+							<div class="split style2">
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Email</h3>
+											<a href="#">silas.raye@gmail.com</a>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>+1 (352) 231-0747</span>
+										</li>
+									</ul>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<span>300 11th Ave North<br />
+											Nashville, TN 37203<br />
+											USA</span>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												<li><a href="https://github.com/Silas-Raye?tab=repositories" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="https://www.linkedin.com/in/silas-raye/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+			</div>
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="entry">
-            <h3>Boom + Bust Video Game Demo</h3>
-            <p>I took on the challenge of creating the Boom + Bust video game demo entirely on my own, expanding my programming skills by mastering a new language called Processing. This project provided valuable experience in adaptability and learning. Additionally, I leveraged AI techniques to generate most of the game's artwork, showcasing my hands-on exposure to AI-generated art.</p>
-        </div>
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>Website Template and Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
 
-        <div class="entry">
-            <h3>Sentiment Analysis for Stock Prediction</h3>
-            <p>In this data-driven project, I conducted extensive data analysis and harnessed my data science expertise to develop a predictive model. Using Python and Jupyter Notebooks, I employed sentiment analysis techniques on news headlines, demonstrating my analytical abilities. My proficiency in Python and MS Visual Studio played a crucial role in the project's success.</p>
-        </div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-        <div class="entry">
-            <h3>Resume Creation Program (Team Leadership)</h3>
-            <p>While leading the development of the Resume Creation Program, I gained practical experience with state-of-the-art language models by integrating the OpenAI API into the project. I effectively managed the team's collaborative efforts through GitHub workflows, fostering a dynamic and organized work environment. This project bolstered my communication, teamwork, and relationship building skills, while also showcasing my problem-solving abilities.</p>
-        </div>
-    </section>
-</body>
+	</body>
 </html>
