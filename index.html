@@ -1,162 +1,103 @@
 <!DOCTYPE HTML>
 <!--
-	Hyperspace by HTML5 UP
+	Highlights by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>Silas' Portfolio</title>
+		<title>Highlights by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
-		<!-- Sidebar -->
-			<section id="sidebar">
-				<div class="inner">
-					<nav>
-						<ul>
-							<li><a href="#about-me">About Me</a></li>
-							<li><a href="#projects">My Projects</a></li>
-							<li><a href="#skills">My Skills</a></li>
-							<li><a href="#contact">Get in Touch</a></li>
-						</ul>
-					</nav>
+		<!-- Header -->
+			<section id="header">
+				<header class="major">
+					<div class="adjustable-spacer"></div>
+					<h1>Silas Raye</h1>
+				    <p class="spaced-text">
+						<span>Graphic Designer</span> |
+						<span>Developer</span> |
+						<span>Data Scientist</span>
+					</p>
+				</header>
+				<div class="container">
+					<ul class="actions special">
+						<li><a href="#one" class="button primary scrolly">Learn More</a></li>
+					</ul>
 				</div>
 			</section>
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+		<!-- One -->
+			<section id="one" class="main special">
+				<div class="container">
+					<span class="image fit primary"><img src="images/pic01.jpg" alt="" /></span>
+					<div class="content">
+						<header class="major">
+							<h2>Who I am</h2>
+						</header>
+						<p>My passion for computers began in elementary school due to my abysmal handwriting and spelling, which led me to use text-to-speech software. Back in 2010, the software barely worked, but I watched the technology evolve throughout my school career. Witnessing the computer turn my voice into words on a page felt like magic, and from that moment on, I was hooked on artificial intelligence.</p>
+						<p>My passion for graphic design started in middle school when I got certified in Photoshop and Illustrator. In high school, I took every tech elective available, diving into web design and video editing. I honed my skills by doing freelance design work for a local pizza joint. During the summers, I attended coding camps and took online classes, teaching myself C++ and Python, further fueling my interest in tech.</p>
+						<p>I studied data science at the University of Florida, graduating with honors a full year early. During my time at UF, I became even more enthralled with the advancements in machine learning and have strived to stay at the forefront of artificial intelligence. As a beta tester for OpenAI before they launched ChatGPT, I gained valuable insights into the field and have been passionately studying data science ever since.</p>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</div>
+			</section>
 
-				<!-- about-me -->
-					<section id="about-me" class="wrapper style1 fullscreen fade-up">
-						<div class="inner">
-							<div class="profile-image">
-								<img src="images/silas.jpg" alt="Silas Raye" class="circle-image">
-							</div>
-							<!-- add an image in a circle here the image is at images/silas.png -->
-							<h1>Hey I'm Silas Raye,</h1>
-							<p>I graduated from the University of Florida in December of 2023. I see myself as a strategic thinker, and someone who values the importance of data to extract insights and inform better decision making.</p>
-							<p>I've always had a fascination with numbers due to my dyslexia, which made Math a more welcoming subject than English. Embracing this affinity, I delved into the world of technology early on. My dyslexia led me to adopt emerging tools like voice-to-text and text-to-speech when they were still in their infancy. Because of this, I became enthralled with the progress in machine learning and have made an effort to stay on the forefront of artificial intelligence. I was a beta tester for OpenAI before they launched ChatGPT and have been studying data science ever since.</p>
-							<ul class="actions">
-								<li><a href="#projects" class="button scrolly">Check Out My Projects</a></li>
-							</ul>
-						</div>
-					</section>
-
-				<!-- projects -->
-					<section id="projects" class="wrapper style2 spotlights">
-						<section>
-							<a class="image"><img src="images/pizza.jpg" alt="" data-position="center center" /></a>
-							<!-- href="pizza-project.html" -->
-							<div class="content">
-								<div class="inner">
-									<h2>Predicting Pizza Wait Times</h2>
-									<p>I created a linear model capable of forecasting customer wait times for a small pizza business with a high degree of accuracy. I extracted twenty years of order data from a SQL database, cleaned the data in python and analyzed it R, and created visualizations, and built reports to help communicate my findings. The project was then implemented into the point of sale system and will increase efficiency by helping staff to predict wait times on takeout orders without disturbing the kitchen.</p>
-									<!-- <ul class="actions">
-										<li><a href="pizza-project.html" class="button">Learn more</a></li>
-									</ul> -->
-								</div>
-							</div>
-						</section>
-						<section>
-							<a class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_York_Stock_Exchange_Facade_2015.jpg" alt="" data-position="top center" /></a>
-							<!-- href="stocks-project.html" -->
-							<div class="content">
-								<div class="inner">
-									<h2>Stock Market Forecasting</h2>
-									<p>I achieved a return on investment of 20% over five years by buying the same stocks as wall street CEOs. I used a web scraper to collect data from the security and exchange commission's website (<a href="https://www.sec.gov" target="_blank">sec.gov</a>). Next I used R to analyze and visualize the data. I discovered that insiders like CEOs and CFOs tend to beat the markets, sometimes by a lot, when they trade in company stock.</p>
-									<!-- <ul class="actions">
-										<li><a href="stocks-project.html" class="button">Learn more</a></li>
-									</ul> -->
-								</div>
-							</div>
-						</section>
-						<section>
-							<a class="image"><img src="images/solemn.jpg" alt="" data-position="25% 25%" /></a>
-							<!-- href="mtg-project.html" -->
-							<div class="content">
-								<div class="inner">
-									<h2>Magic: The Gathering Sentiment Analysis</h2>
-									<p>This was a project for my Statistical Learning class in which I attempted to forecast the prices of trading cards based on their in-game abilities. I utilized various forms of natural language processing, including bag of words, term frequency inverse document frequency, and large language models, as well as high-dimensional linear approaches like lasso and ridge regression. The program was able to predict the price of cards with some accuracy, but I am currently readjusting this project to improve and refine it, as it was one of my first serious data science projects.</p>
-									<!-- <ul class="actions">
-										<li><a href="mtg-project.html" class="button">Learn more</a></li>
-									</ul> -->
-								</div>
-							</div>
-						</section>
-					</section>
-
-				<!-- skills -->
-					<section id="skills" class="wrapper style3 fade-up">
-						<div class="inner">
-							<h2>My Skills</h2>
-							<div class="features">
-								<section>
-									<span class="icon solid major fa-database"></span>
-									<h3>Databases</h3>
-									<p>I am an expert at querying and manipulating data in SQL. I also have a strong foundation in relational databases and database design.</p>
-								</section>
-								<section>
+		<!-- Two -->
+			<section id="two" class="main special">
+				<div class="container">
+					<span class="image fit primary"><img src="images/pic02.jpg" alt="" /></span>
+					<div class="content">
+						<header class="major">
+							<h2>Stuff I do</h2>
+						</header>
+						<ul class="icons-grid">
+							<li>
+								<a href="https://github.com/Silas-Raye" target="_blank">
 									<span class="icon solid major fa-code"></span>
-									<h3>Coding Languages</h3>
-									<p>I am proficient with Python and R. I am also versed in the relevant packages including NumPy, Pandas, Sklearn, Matplotlib, and more. I also have some experience with C++, Java, JavaScript, HTML, and CSS.</p>
-								</section>
-								<section>
-									<span class="icon solid major fa-file"></span>
-									<h3>Reporting</h3>
-									<p>I pride myself on my ability to communicate insights to non-technical audiences using tools like Power BI and Tableau.</p>
-								</section>
-								<section>
-									<span class="icon solid major fa-desktop"></span>
-									<h3>Digital Literacy</h3>
-									<p>I am adept in all operating systems including Windows, Apple, and Linux. Additionally, I am proficient in a range of software tools. I am a quick learner, and I can swiftly adapt to new programs and technologies as needed.</p>
-								</section>
-							</div>
-						</div>
-					</section>
+									<h3>Coding</h3>
+								</a>
+							</li>
+							<li>
+								<a href="https://docs.google.com/spreadsheets/d/1klpcH3d5yq9Nvtde2OTceUunIlNXIfDy_WCYpIiDsz4/edit?gid=253392461#gid=253392461" target="_blank">
+									<span class="icon solid major fa-chart-bar"></span>
+									<h3>Data Analysis</h3>
+								</a>
+							</li>
+							<li>
+								<a href="https://drive.google.com/drive/folders/1MsfREfN1NVZorkoe2xHyqfNP-AaonQW1" target="_blank">
+									<span class="icon solid major fa-palette"></span>
+									<h3>Graphic Design</h3>
+								</a>
+							</li>
+							<li>
+								<a href="https://s7ygian.itch.io/the-observer-2" target="_blank">
+									<span class="icon solid major fa-gamepad"></span>
+									<h3>Game Design</h3>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</div>
+			</section>
 
-					<!-- contact -->
-					<section id="contact" class="wrapper style1">
-						<div class="inner">
-							<h2>Get in Touch</h2>
-							<div class="split style2">
-								<section>
-									<ul class="contact">
-										<li>
-											<h3>Email</h3>
-											<a href="#">silas.raye@gmail.com</a>
-										</li>
-										<li>
-											<h3>Phone</h3>
-											<span>(352) 231-0747</span>
-										</li>
-									</ul>
-								</section>
-								<section>
-									<ul class="contact">
-										<li>
-											<h3>Address</h3>
-											<span>300 11th Ave North<br />
-											Nashville, TN 37203<br />
-											USA</span>
-										</li>
-										<li>
-											<h3>Social</h3>
-											<ul class="icons">
-												<li><a href="https://github.com/Silas-Raye?tab=repositories" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-												<li><a href="https://www.linkedin.com/in/silas-raye/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-											</ul>
-										</li>
-									</ul>
-								</section>
-							</div>
-						</div>
-					</section>
+		<!-- Three -->
+		<section id="two" class="main special">
+			<div class="container">
+				<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
+				<div class="content">
+					<header class="major">
+						<h2>Get in touch</h2>
+					</header>
+					<p>I don't have any social media, but you can email me at <a href="mailto:silas.raye@gmail.com">silas.raye@gmail.com</a></p>
+				</div>
 			</div>
+		</section>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
