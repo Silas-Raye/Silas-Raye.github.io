@@ -2858,6 +2858,11 @@ input, select, textarea {
 			margin-bottom: 20px;
 		}
 
+		.adjustable-spacer-two {
+			height: 50px;
+			margin-bottom: 20px;
+		}
+
 		.spaced-text {
 			display: inline-block;
 		}
