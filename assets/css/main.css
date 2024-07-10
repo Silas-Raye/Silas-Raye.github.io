@@ -2858,11 +2858,6 @@ input, select, textarea {
 			margin-bottom: 20px;
 		}
 
-		.adjustable-spacer-two {
-			height: 50px;
-			margin-bottom: 20px;
-		}
-
 		.spaced-text {
 			display: inline-block;
 		}
@@ -2874,7 +2869,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		min-height: 100vh;
+		min-height: 10vh;
 		padding: 0 0 12em 0;
 		position: relative;
 		text-align: center;
