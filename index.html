@@ -34,26 +34,10 @@
 		<!-- One -->
 			<section id="one" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/pic01.jpg" alt="" /></span>
-					<div class="content">
-						<header class="major">
-							<h2>Who I am</h2>
-						</header>
-						<p>My passion for computers began in elementary school due to my abysmal handwriting and spelling, which led me to use text-to-speech software. Back in 2010, the software barely worked, but I watched the technology evolve throughout my school career. Witnessing the computer turn my voice into words on a page felt like magic, and from that moment on, I was hooked on artificial intelligence.</p>
-						<p>My passion for graphic design started in middle school when I got certified in Photoshop and Illustrator. In high school, I took every tech elective available, diving into web design and video editing. I honed my skills by doing freelance design work for a local pizza joint. During the summers, I attended coding camps and took online classes, teaching myself C++ and Python, further fueling my interest in tech.</p>
-						<p>I studied data science at the University of Florida, graduating with honors a full year early. During my time at UF, I became even more enthralled with the advancements in machine learning and have strived to stay at the forefront of artificial intelligence. As a beta tester for OpenAI before they launched ChatGPT, I gained valuable insights into the field and have been passionately studying data science ever since.</p>
-					</div>
-					<a href="#two" class="goto-next scrolly">Next</a>
-				</div>
-			</section>
-
-		<!-- Two -->
-			<section id="two" class="main special">
-				<div class="container">
 					<span class="image fit primary"><img src="images/pic02.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
-							<h2>Stuff I do</h2>
+							<h2>My Portfolio</h2>
 						</header>
 						<p>Click on the icons to learn more.</p>
 						<ul class="icons-grid">
@@ -70,7 +54,7 @@
 								</a>
 							</li>
 							<li>
-								<a href="https://silas-raye.github.io/lens/graphic-design.html">
+								<a href="https://silas-raye.github.io/lens/graphic-design.html" target="_blank">
 									<span class="icon solid major fa-palette"></span>
 									<h3>Graphic Design</h3>
 								</a>
@@ -83,19 +67,39 @@
 							</li>
 						</ul>
 					</div>
-					<a href="#three" class="goto-next scrolly">Next</a>
+				</div>
+			</section>
+
+			<!-- Two -->
+			<section id="two" class="main special">
+				<div class="container">
+					<span class="image fit primary"><img src="images/pic01.jpg" alt="" /></span>
+					<div class="content">
+						<header class="major">
+							<h2>About Me</h2>
+						</header>
+						<p>I discovered I was dyslexic at age 8. My spelling and handwriting were so poor that I was placed in a school specializing in technology at age 11. By the age of 13, I was certified in the entire Microsoft Office Suite. By 15, I had earned certifications in all the Adobe programs and started learning to code. This early exposure helped me learn to face my challenges head-on, adapt, and develop a strong love for technology.</p>
+						
+						<div id="more-content" style="display: none;">
+						  <p>My passion for computers began in elementary school due to my abysmal handwriting and spelling, which led me to use text-to-speech software. Back in 2010, the software barely worked, but I watched the technology evolve throughout my school career. Witnessing the computer turn my voice into words on a page felt like magic, and from that moment on, I was hooked on artificial intelligence.</p>
+						  <p>My passion for graphic design started in middle school when I got certified in Photoshop and Illustrator. In high school, I took every tech elective available, diving into web design and video editing. I honed my skills by doing freelance design work for a local pizza joint. During the summers, I attended coding camps and took online classes, teaching myself C++ and Python, further fueling my interest in tech.</p>
+						  <p>I studied data science at the University of Florida, graduating with honors a full year early. During my time at UF, I became even more enthralled with the advancements in machine learning and have strived to stay at the forefront of artificial intelligence. As a beta tester for OpenAI before they launched ChatGPT, I gained valuable insights into the field and have been passionately studying data science ever since.</p>
+						</div>
+						
+						<button id="read-more-btn" onclick="toggleReadMore()">Read More</button>
+					</div>
 				</div>
 			</section>
 
 		<!-- Three -->
-		<section id="two" class="main special">
+		<section id="three" class="main special">
 			<div class="container">
 				<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
 				<div class="content">
 					<header class="major">
 						<h2>Get in touch</h2>
 					</header>
-					<p>I don't have any social media, but you can email me at <a href="mailto:silas.raye@gmail.com">silas.raye@gmail.com</a></p>
+					<p>Check out my LinkedIn or GitHub profiles by clicking on the icons below. I'm not active on other social media platforms besides these two. Feel free to contact me via email at <a href="mailto:silas.raye@gmail.com">silas.raye@gmail.com</a> or reach me by phone at 352-231-0747.</p>
 				</div>
 			</div>
 		</section>
@@ -124,3 +128,17 @@
 
 	</body>
 </html>
+
+<script>
+	function toggleReadMore() {
+	  var content = document.getElementById('more-content');
+	  var btn = document.getElementById('read-more-btn');
+	  if (content.style.display === 'none') {
+		content.style.display = 'block';
+		btn.innerText = 'Read Less';
+	  } else {
+		content.style.display = 'none';
+		btn.innerText = 'Read More';
+	  }
+	}
+  </script>

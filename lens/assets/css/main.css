@@ -1349,3 +1349,19 @@ input, select, textarea {
 				}
 
 		}
+
+		/* Add custom styles here */
+		.back-button {
+			display: inline-block;
+			margin: 20px 0;
+			padding: 10px 20px;
+			background-color: #333;
+			color: #fff;
+			text-decoration: none;
+			border-radius: 5px;
+			text-align: center;
+		}
+		.back-button:hover {
+			background-color: #555;
+		}
+		

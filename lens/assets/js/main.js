@@ -169,9 +169,9 @@ var main = (function($) { var _ = {
 
 			_.$toggle = $('.toggle');
 
-			_.$toggle.on('click', function() {
-				window.location.href = 'https://silas-raye.github.io/#two';
-			});
+			// _.$toggle.on('click', function() {
+			// 	window.location.href = 'https://silas-raye.github.io/#one';
+			// });
 
 	},
 
