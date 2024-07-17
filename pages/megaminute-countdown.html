@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Megaminute Countdown Timer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .countdown {
+            text-align: center;
+        }
+        .countdown h1 {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="countdown">
+        <h1><span id="megaMinutes"></span> megaminutes till I see you ❤️</h1>
+    </div>
+
+    <script>
+        // Set the date and time we're counting down to
+        const targetDate = new Date("2024-08-09T20:30:00").getTime();
+
+        // Update the countdown every second
+        const countdown = setInterval(() => {
+            // Get today's date and time
+            const now = new Date().getTime();
+
+            // Find the difference between now and the target date
+            const difference = targetDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            const minutes = Math.floor(difference / (1000 * 60));
+
+            // Calculate mega minutes (1 mega minute = 3 real minutes)
+            const megaMinutes = Math.floor(minutes / 3);
+
+            // Display the result in the element with id="megaMinutes"
+            document.getElementById("megaMinutes").textContent = megaMinutes;
+
+            // If the countdown is finished, write some text
+            if (difference < 0) {
+                clearInterval(countdown);
+                document.getElementById("megaMinutes").textContent = "EXPIRED";
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
