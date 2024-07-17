@@ -2870,7 +2870,7 @@ input, select, textarea {
 
 	#footer {
 		min-height: 10vh;
-		padding: 0 0 12em 0;
+		padding: 0 0 7em 0;
 		position: relative;
 		text-align: center;
 	}
@@ -2883,7 +2883,7 @@ input, select, textarea {
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: #fff;
 			left: 0;
 			position: absolute;
 			text-align: center;
