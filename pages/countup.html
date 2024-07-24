@@ -23,12 +23,12 @@
 </head>
 <body>
     <div class="countdown">
-        <h1><span id="megaMinutes"></span> megaminutes till I see you ❤️</h1>
+        <h1>It's been <span id="timeElapsed"></span>.</h1>
     </div>
 
     <script>
-        // Set the date and time we're counting down to
-        const targetDate = new Date("2024-07-30T21:45:00").getTime();
+        // Set the date and time we're counting up from
+        const targetDate = new Date("2024-07-24T08:30:00").getTime();
 
         // Update the countdown every second
         const countdown = setInterval(() => {
@@ -36,22 +36,17 @@
             const now = new Date().getTime();
 
             // Find the difference between now and the target date
-            const difference = targetDate - now;
+            const difference = now - targetDate;
 
-            // Time calculations for days, hours, minutes and seconds
-            const minutes = Math.floor(difference / (1000 * 60));
+            // Time calculations for days, hours, minutes, and seconds
+            const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((difference % (1000 * 60)) / 1000);
 
-            // Calculate mega minutes (1 mega minute = 3 real minutes)
-            const megaMinutes = Math.floor(minutes / 3);
+            // Display the result in the element with id="timeElapsed"
+            document.getElementById("timeElapsed").textContent = `${days} days, ${hours} hours, ${minutes} minutes, and ${seconds} seconds`;
 
-            // Display the result in the element with id="megaMinutes"
-            document.getElementById("megaMinutes").textContent = megaMinutes;
-
-            // If the countdown is finished, write some text
-            if (difference < 0) {
-                clearInterval(countdown);
-                document.getElementById("megaMinutes").textContent = "EXPIRED";
-            }
         }, 1000);
     </script>
 </body>
