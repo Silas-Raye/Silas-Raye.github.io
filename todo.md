@@ -12,4 +12,5 @@
 - [ ] Game Design page
     - [ ] Boom + Bust
     - [ ] The Observer
+    - [ ] C++ hangman
     - [ ] try contacting the team behind simian.interface++
